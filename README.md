@@ -68,6 +68,13 @@ python webnlg_baseline_input.py -i ../data-directory/
 
 ## 2. Baseline/OpenNMT-py
 
+Install OpenNMT-py as Baseline.
+```
+cd Code/Baseline
+git clone https://github.com/OpenNMT/OpenNMT-py
+cd OpenNMT-py
+```
+
 Once the data has been preprocessed, the training process can be execute. This procedure uses a GPU, be sure you have an available GPU, if not this process cannot be execute. Please exexcute the following commands to execute the 16 different configurations for your model.   
 ```
 cd Code/Baseline/OpenNMT-py/
