@@ -1,5 +1,3 @@
-Maria Andrea Cruz Blandon, Anupama Chingacham, Christian Juliano Pereira
-
 An RNN encoder that learns word and label annotation vectors in parallel;
 ***
 # Semantic Parser
@@ -95,3 +93,6 @@ cd Code/Evaluation/
 python Evaluation.py -i ../Preprocessing/Model_N/
 ```
 This will create a new folder Model_N with the evaluation results for every configuration. This evaluations results are given in csv and tex (table) format. There you can find the values for accuracy, precision, recall and F1 measure.
+
+
+Project Team: Maria Andrea Cruz Blandon, Anupama Chingacham
