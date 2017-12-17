@@ -1,0 +1,2433 @@
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jwaydan Moyine<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jwaydan Moyine<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Buenos Aires<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alligator Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Polish–Soviet War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Trance music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Delta II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+Fiat Croma country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Erasmus University Rotterdam<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Olympique Lyonnais country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Petrotrin F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Karpaty Lviv<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country William M. O. Dawson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Al Kharaitiyat SC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Juan Perón<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+James Craig Watson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+Peñarol country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indie rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Synthpop<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Russia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Asunción country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olusegun Obasanjo<tripleToken>ENTITY-2
+Germany country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ferencvárosi TC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+St. Louis country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Fiat Croma country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States Army country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Karpaty Lviv<tripleToken>ENTITY-2
+Fiat Croma country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Delta II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olympique Lyonnais<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Russia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+General Dynamics Electric Boat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Rock and roll country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Arianespace country Guiana Space Centre<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Agnes Ward White country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ELA-3<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+Country music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Daniel Gould Fowle<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country AIDA Cruises<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Country music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Airbus Defence and Space<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Russia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Antietam country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Guiana Space Centre country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Manchester country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Antonis Samaras<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Polish–Soviet War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Maccabi Ashdod B.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Gulf War<tripleToken>ENTITY-2
+Rock music country Country music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ska punk country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Maccabi Ashdod B.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Argentina country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+James Craig Watson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin Virage<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country DeSoto Custom<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Twilight (band) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Russia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adolf Schärf country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Salem Church country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Terek Grozny country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Maccabi Ashdod B.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+Twilight (band) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Al Kharaitiyat SC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Country music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alligator Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Synthpop<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Maccabi Ashdod B.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock and roll<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hull City A.F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Josef Klaus country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Josef Klaus country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+Rock music country Country music<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+RoPS country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+General Dynamics Electric Boat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Peñarol<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Juan Perón<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+James Craig Watson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Budapest country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hamilton Academical F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country Costa Crociere<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Neptun Werft country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+London country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+AIDA Cruises country Costa Crociere<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Real Madrid Castilla country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tennessee Titans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Montevideo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+Ska punk country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hull City A.F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alligator Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Delta II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ELA-3<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al-Khor Sports Club<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin Virage<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Montevideo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Finland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Socialist Party (Netherlands)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Terek Grozny country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Boston Bruins<tripleToken>ENTITY-2
+Synthpop country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Antietam country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+MTU Friedrichshafen country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Manchester<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Fiat Croma country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Country music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Juan Carlos I of Spain<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Synthpop<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Erasmus University Rotterdam<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Accrington Stanley F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Karpaty Lviv<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Delta II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olusegun Obasanjo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olympique Lyonnais<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Civil War<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Paraguay<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country AIDA Cruises<tripleToken>ENTITY-2
+Al-Zawra'a SC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Karpaty Lviv country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Cold Harbor country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Audi country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Rock music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Maccabi Ashdod B.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+General Dynamics Electric Boat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al-Khor Sports Club<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Agnes Ward White<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Agnes Ward White country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Christian Burns country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Polish–Soviet War<tripleToken>ENTITY-2
+Arianespace country Guiana Space Centre<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy national under-16 football team<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olympique Lyonnais<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+AIDA Cruises country Costa Crociere<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New Democracy (Greece)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Burns<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Central Español country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Gettysburg country American Civil War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Synthpop<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ska punk country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Trance music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Asunción country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Socialist Party (Netherlands)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Brandon, Manitoba country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Christian Burns country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Deram Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Terek Grozny country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Asunción country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alligator Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Asunción country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country FC Terek Grozny<tripleToken>ENTITY-2
+Polydor Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Houston Texans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Gettysburg country American Civil War<tripleToken>ENTITY-2
+United Petrotrin F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+DeSoto Custom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Aston Martin Virage country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+N. R. Pogson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Central Español<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Peñarol country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Deram Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indie rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Josef Klaus country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Buenos Aires country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Locomotive Company<tripleToken>ENTITY-2
+Arianespace country Guiana Space Centre<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+Parkersburg, West Virginia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Peñarol<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin Virage<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Argentina country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Peñarol<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Paraguay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Deram Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Terek Grozny country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alternative rock<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Synthpop<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hull City A.F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Rock music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Agnes Ward White country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Locomotive Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Gulf War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Country music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Polish–Soviet War<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Honda K engine country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Manchester country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+RCA Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+Audi country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country SV Werder Bremen II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Parkersburg, West Virginia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Honda K engine country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Brandon, Manitoba country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Central Español country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Juan Perón<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Deram Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Rock and roll country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Accrington Stanley F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Peñarol<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Battle of France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country FC Terek Grozny<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Torpedo Moscow<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+Uruguay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Al-Zawra'a SC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country William M. O. Dawson<tripleToken>ENTITY-2
+Brandon, Manitoba country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Real Madrid Castilla country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al-Khor Sports Club<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+St. Louis Rams country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Netherlands country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Maccabi Ashdod B.C.<tripleToken>ENTITY-2
+John F. Kennedy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Royal Artillery<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Antonis Samaras<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+RoPS country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country SV Werder Bremen II<tripleToken>ENTITY-2
+Battle of Antietam country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Honda K engine country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Buenos Aires country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Battle of France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Paraguay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Socialist Party (Netherlands)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Twilight (band) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+RoPS country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alligator Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Al-Zawra'a SC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Erasmus University Rotterdam<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Manchester<tripleToken>ENTITY-2
+Al Kharaitiyat SC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+RCA Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Salem Church country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Motherwell F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Fiat Croma country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+MTU Friedrichshafen country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Real Madrid Castilla country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+William M. O. Dawson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jwaydan Moyine<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Guiana Space Centre country ELA-3<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Manchester<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Richard A. Teague<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+William M. O. Dawson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country William M. O. Dawson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Trance music<tripleToken>ENTITY-2
+Real Madrid Castilla country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+John F. Kennedy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Rock music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Torpedo Moscow<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Buenos Aires<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alligator Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Neptun Werft country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country P&O (company)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Juan Carlos I of Spain<tripleToken>ENTITY-2
+Olympique Lyonnais country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Paraguay<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock and roll<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country DeSoto Custom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Daniel Gould Fowle<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+United Petrotrin F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Russia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tennessee Titans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Polish–Soviet War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country P&O (company)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Petrotrin F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tennessee Titans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Locomotive Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adenan Satem country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+General Dynamics Electric Boat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New Democracy (Greece)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+London country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Uruguay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Gruppo Bertone country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Terek Grozny country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+General Dynamics Electric Boat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Guiana Space Centre country ELA-3<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Synthpop country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Carlos I of Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Deram Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Burns<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Maccabi Ashdod B.C.<tripleToken>ENTITY-2
+Al-Khor Sports Club country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country William M. O. Dawson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olympique Lyonnais<tripleToken>ENTITY-2
+Houston Texans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Airbus Defence and Space<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tennessee Titans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Richard A. Teague<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Petrotrin F.C.<tripleToken>ENTITY-2
+Argentina country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Guiana Space Centre country ELA-3<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Peñarol<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Boston Bruins<tripleToken>ENTITY-2
+Polydor Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+Real Madrid Castilla country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Guiana Space Centre country ELA-3<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pop music<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Paraguay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country SV Werder Bremen II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Olympique Lyonnais country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+St. Louis country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy national under-16 football team country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+Hull City A.F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy national under-16 football team country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Boston Bruins<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Polish–Soviet War<tripleToken>ENTITY-2
+Columbus Blue Jackets country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Russia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Manchester country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Dinamo Batumi country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Agnes Ward White<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Buenos Aires<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Synthpop country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Motherwell F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Battle of Salem Church country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Manchester country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+A.C. Milan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Poland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Buenos Aires<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olusegun Obasanjo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Karpaty Lviv country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country DeSoto Custom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Royal Artillery<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Guiana Space Centre country ELA-3<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Gulf War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Montevideo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Battle of France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Dinamo Batumi country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tennessee Titans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Trance music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock and roll<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Deram Records<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Boston Bruins country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Terek Grozny country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Boston Bruins country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olympique Lyonnais<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy national under-16 football team<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Peñarol country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Dinamo Batumi country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Civil War<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Post-metal country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Manchester country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country U.S. Città di Palermo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pop music<tripleToken>ENTITY-2
+Gulf War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Locomotive Company<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Civil War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+Fiat Croma country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Twilight (band) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin DBS<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olusegun Obasanjo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin Virage<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Maccabi Ashdod B.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Atlanta Falcons country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Twilight (band) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hull City A.F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Delta II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Atlanta Falcons country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Central Español country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+A.C. Milan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+London country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Finland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New Democracy (Greece)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Manchester<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Manchester<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Abdul Rahman Ya'kub country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ferencvárosi TC<tripleToken>ENTITY-2
+Houston Texans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+DeSoto Custom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+St. Louis country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adenan Satem country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+N. R. Pogson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Vermont<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Delta II country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ferencvárosi TC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+St. Louis Rams country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Buenos Aires country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adolf Schärf country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Petrotrin F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Tom Tomsk<tripleToken>ENTITY-2
+Guiana Space Centre country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+William M. O. Dawson country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Central Español<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Antonis Samaras<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin Virage<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Manchester country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+Neptun Werft country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Aston Martin Virage country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Tom Tomsk<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Carlos I of Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin DBS<tripleToken>ENTITY-2
+Asunción country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hull City A.F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Airbus Defence and Space<tripleToken>ENTITY-2
+Country music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country P&O (company)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Juan Perón country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Al Kharaitiyat SC<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Central Español<tripleToken>ENTITY-2
+Boston Bruins country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country VfL Wolfsburg<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Torpedo Moscow<tripleToken>ENTITY-2
+Audi country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+DeSoto Custom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Uruguay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country U.S. Città di Palermo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Costa Crociere country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+Fiat Croma country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Civil War country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Peñarol<tripleToken>ENTITY-2
+Alhambra country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Aston Martin Virage country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Al Kharaitiyat SC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Trance music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+Germany country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Polydor Records country Alternative rock<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Black metal<tripleToken>ENTITY-2
+Al-Khor Sports Club country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Motherwell F.C. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Post-metal country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Germany country Neptun Werft<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Manchester<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Gulf War<tripleToken>ENTITY-2
+Battle of Gettysburg country American Civil War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Whig Party (United States)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country VfL Wolfsburg<tripleToken>ENTITY-2
+MTU Friedrichshafen country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Guiana Space Centre country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adenan Satem<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Real Madrid Castilla country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Walter Baade<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adolf Schärf country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Locomotive Company<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Post-metal country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Parkersburg, West Virginia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Poland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+John F. Kennedy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alternative rock country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country AIDA Cruises<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin DBS<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country American Locomotive Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Olusegun Obasanjo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Aston Martin Virage<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country U.S. Città di Palermo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country James Craig Watson<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Canada country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Buenos Aires<tripleToken>ENTITY-2
+Twilight (band) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Finland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+American Motors country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Royal Artillery<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country World War II<tripleToken>ENTITY-2
+Columbus Blue Jackets country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Argentina country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hamilton Academical F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country FC Tom Tomsk<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+General Dynamics Electric Boat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ELA-3<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Rock and roll country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.C. Milan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tennessee Titans country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Torpedo Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+FC Spartak Moscow country FC Terek Grozny<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Suburban Legends<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country William M. O. Dawson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country N. R. Pogson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Daniel Gould Fowle<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Army<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rock music<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mike Akhigbe<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Synthpop<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ferencvárosi TC country United Petrotrin F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Richard A. Teague<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy national under-16 football team<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Alvis Car and Engineering Company<tripleToken>ENTITY-2
+Hip hop music country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hamilton Academical F.C.<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rhythm and blues<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Austria country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Moscow country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Caterpillar Inc. country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AIDA Cruises country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Audi<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Netherlands<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jazz<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Finland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hip hop music<tripleToken>ENTITY-2

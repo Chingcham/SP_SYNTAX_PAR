@@ -1,0 +1,17 @@
+Configuration,RNN_type,RNN_size,Epochs,ENC_layers,F1_dev,F1_unseen
+config10,GRU,500,13,8,0.053,0.0
+config1,LSTM,500,13,2,0.764,0.004
+config7,LSTM,500,13,5,0.248,0.001
+config4,GRU,500,13,2,0.0,0.0
+config6,GRU,500,27,2,0.0,0.0
+config9,LSTM,500,13,8,0.143,0.0
+config13,LSTM,900,13,2,0.741,0.006
+config16,GRU,700,13,5,0.012,0.0
+config14,GRU,900,13,2,0.015,0.0
+config12,GRU,700,13,2,0.018,0.0
+config3,LSTM,500,27,2,0.768,0.004
+config2,LSTM,500,20,2,0.767,0.004
+config11,LSTM,700,13,2,0.75,0.008
+config5,GRU,500,20,2,0.0,0.0
+config15,LSTM,700,13,5,0.293,0.001
+config8,GRU,500,13,5,0.038,0.0

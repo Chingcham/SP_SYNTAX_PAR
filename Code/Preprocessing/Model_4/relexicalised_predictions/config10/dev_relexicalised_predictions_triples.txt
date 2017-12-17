@@ -1,0 +1,2268 @@
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jerry Ordway<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Bill Oddie country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jorge Humberto Rodríguez<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Mexico country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan Premier League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Amsterdam country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tarrant County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ethiopia country Addis Ababa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pakistan Civil Aviation Authority<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Springer Science+Business Media<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Flemish Region<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Visvesvaraya Technological University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country All India Council for Technical Education<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Flemish Region<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Flemish Region country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Wilson Township, Alpena County, Michigan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Soho Press<tripleToken>ENTITY-2
+Siomay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 12 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Saranac Lake, New York country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country John van den Brom<tripleToken>ENTITY-2
+Massimo Drago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Athens country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Marv Wolfman country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jalisco<tripleToken>ENTITY-2
+Ethiopia country Addis Ababa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+Monocacy National Battlefield country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Olympic Stadium (Athens) country Athens<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ernie Colón<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Greece country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Avocado country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Appleton, Wisconsin<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Flemish Region<tripleToken>ENTITY-2
+Fulton County, Georgia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greece<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Superleague Greece<tripleToken>ENTITY-2
+Marriott International country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country Singapore<tripleToken>ENTITY-2
+AZAL Arena country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Lee County, Alabama country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Lemon country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Jorge Humberto Rodríguez country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Superleague Greece<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bill Oddie<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Siomay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mason School of Business<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan Premier League<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+HIV country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country John van den Brom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+Siomay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Indonesia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sweet potato<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pakistan Civil Aviation Authority<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENAIRE<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Avocado country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan Premier League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Amsterdam<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Denmark country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+San Sebastián de los Reyes country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Poaceae country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Marriott International country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Greece country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country California<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+California country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Denmark country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Derbyshire Dales<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan Premier League<tripleToken>ENTITY-2
+Pakistan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hong Kong<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Appleton, Wisconsin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Lee County, Alabama country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country All India Council for Technical Education<tripleToken>ENTITY-2
+Alba Iulia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+Bill Oddie country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Into Battle (novel)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Republic of Ireland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Estádio Municipal Coaracy da Mata Fonseca<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Panucci<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 8<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 8<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Egg Harbor Township, New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 14 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Bill Everett country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Flemish Region country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Panucci<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greece<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENAIRE country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Soho Press<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mason School of Business<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Gus Poyet country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+BBC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Michele Marcolini<tripleToken>ENTITY-2
+Apollo 12 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+University of Texas at Austin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Appleton, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Appleton, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pakistan Civil Aviation Authority<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Shumai<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Massimo Drago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Dublin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+Celery country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ireland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bakewell tart<tripleToken>ENTITY-2
+University of Texas at Austin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greece<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Jens Härtel country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Serie A country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mason School of Business<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+John Buscema country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greece<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Olympic Stadium (Athens) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Monocacy National Battlefield country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Indonesia<tripleToken>ENTITY-2
+Apollo 8 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Distinguished Service Medal (United States Navy) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Pakistan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Japan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Gujarat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Potter County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akron, Ohio<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 11 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Premier Development League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 8<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+South Africa country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pakistan Civil Aviation Authority<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+SAGE Publications country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Cornell University country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Washtenaw County, Michigan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+Alba Iulia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+Java country Singapore<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lahore<tripleToken>ENTITY-2
+Premier Development League country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Aarhus country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Siomay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+California country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jorge Humberto Rodríguez<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Gujarat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country 1634: The Baltic War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Derbyshire Dales<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Appleton, Wisconsin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Andrews County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Harrietstown, New York country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Estádio Municipal Coaracy da Mata Fonseca<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Japan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+Georgia (U.S. state) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Panucci<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+European University Association country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+HIV country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+Potter County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Denmark country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+South Africa country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mason School of Business<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan Premier League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Derbyshire Dales<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jorge Humberto Rodríguez<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Greece country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Chicago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Bangalore country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Japan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Wolf Solent country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Tennis<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+San Sebastián de los Reyes country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Turkey<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Premier Development League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Soho Press<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan Premier League<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Visvesvaraya Technological University country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ireland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Into Battle (novel)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country China<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Atlantic County, New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Turkey<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 8 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+University of Texas at Austin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Poaceae country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Celery country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENAIRE country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Visvesvaraya Technological University country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jerry Ordway<tripleToken>ENTITY-2
+Ethiopia country Addis Ababa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Serie B<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Georgia (U.S. state) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Superleague Greece<tripleToken>ENTITY-2
+Castle (novel) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Monocacy National Battlefield country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akron, Ohio<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Poaceae country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Amsterdam<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bakewell tart<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Turkey<tripleToken>ENTITY-2
+Antioquia Department country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pakistan Civil Aviation Authority<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Gus Poyet country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ireland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+California country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Serie A<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Washtenaw County, Michigan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Into Battle (novel)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+Atlantic County, New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Frank de Boer<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Antioquia Department country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Derbyshire Dales<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Karnataka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cleveland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Bangalore country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bakewell tart<tripleToken>ENTITY-2
+Dublin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Live Nation Entertainment<tripleToken>ENTITY-2
+Distinguished Service Medal (United States Navy) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Springer Science+Business Media<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akita, Akita<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Indonesia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Athens<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Indonesia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+European University Association country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Denmark<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Lemon country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Jorge Humberto Rodríguez country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+BBC country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lemon<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 12 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+AZAL Arena country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Saranac Lake, New York country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Live Nation Entertainment<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+Alba Iulia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Singapore country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Serie B<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Cornell University country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greece<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENAIRE<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akita, Akita<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+Premier Development League country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+Tarrant County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+Olympic Stadium (Athens) country Athens<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Ethiopia country Addis Ababa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Visvesvaraya Technological University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Distinguished Service Medal (United States Navy)<tripleToken>ENTITY-2
+John van den Brom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bakewell tart<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country 1634: The Baltic War<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Pakistan Civil Aviation Authority<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adams County, Pennsylvania<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Greece country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Premier Development League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+Ethiopia country Addis Ababa<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cleveland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+Siomay country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lemon<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+SAGE Publications country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country London<tripleToken>ENTITY-2
+Alcobendas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Castle (novel) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Singapore country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Eric Flint<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Egg Harbor Township, New Jersey<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.T. Charlie Johnson<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Karl Kesel<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Amsterdam<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Karl Kesel<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akita, Akita<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Port Authority of New York and New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Monocacy National Battlefield country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country College of William & Mary<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bakewell tart<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hong Kong<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Massimo Drago<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Celery country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+San Sebastián de los Reyes country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Premier Development League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Michele Marcolini<tripleToken>ENTITY-2
+Stuart Parker (footballer) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Athens country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+San Sebastián de los Reyes country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+South Jersey Transportation Authority country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Poaceae country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Bill Everett country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+University of Texas at Austin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Karnataka country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Lee County, Alabama country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country France<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+Saranac Lake, New York country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+Romania country Alba Iulia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Turkey<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Buffalo, New York<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ernie Colón<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Philippines<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+Republic of Ireland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bakewell tart<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+South Jersey Transportation Authority country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lemon<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Indonesia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 8 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Premier Development League<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Karnataka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Denmark country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Jorge Humberto Rodríguez country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Derbyshire Dales<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Panucci<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ernie Colón<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Massimo Drago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mason School of Business<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+Republic of Ireland country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+Andrews County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Frank de Boer<tripleToken>ENTITY-2
+Fulton County, Georgia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akron, Ohio<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cleveland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alcobendas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akron, Ohio<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Frank de Boer<tripleToken>ENTITY-2
+Bakewell tart country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Monocacy National Battlefield country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Karl Kesel<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Punjab, Pakistan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Philippines<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Derbyshire Dales<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akita, Akita<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Mexico country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Tennis<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country All India Council for Technical Education<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Port Authority of New York and New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 11 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bill Oddie<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sweet potato<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Andrews County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+Distinguished Service Medal (United States Navy) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+Bakewell tart country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Panucci<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jerry Ordway<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Visvesvaraya Technological University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Distinguished Service Medal (United States Navy)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+Castle (novel) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Denmark<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lemon<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mason School of Business<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+John Cowper Powys country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akita, Akita<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Egg Harbor Township, New Jersey<tripleToken>ENTITY-2
+Romania country Alba Iulia<tripleToken>ENTITY-2
+John Cowper Powys country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Christian Panucci<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rolando Maran<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Denmark<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+California country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Cornell University country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Serie A country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Soho Press<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 8<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Massimo Drago<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Monocacy National Battlefield country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country All India Council for Technical Education<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+John Cowper Powys country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Valencian Community<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Saranac Lake, New York country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sweet potato<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+SAGE Publications country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country France<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Bill Oddie<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Mason School of Business<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Buffalo, New York<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+John van den Brom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Serie A country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Wilson Township, Alpena County, Michigan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Mexico country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Washtenaw County, Michigan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Chicago<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country All India Council for Technical Education<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 8<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Tarrant County, Texas country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Saranac Lake, New York country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cleveland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akron, Ohio<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+California country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Olympic Stadium (Athens) country Athens<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Poaceae country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Adams County, Pennsylvania<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ireland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+Chicago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alba Iulia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Stuart Parker (footballer) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Turkey<tripleToken>ENTITY-2
+Mexico country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Philippines<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country New York City<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Singapore country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Athens country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Tennis<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Gujarat country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+South Jersey Transportation Authority country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greece<tripleToken>ENTITY-2
+Apollo 12 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Turkey<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Jalisco<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lahore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Denmark country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indiana country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+HIV country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Abilene, Texas<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 14<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Italy<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Serie A<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country France<tripleToken>ENTITY-2
+Apollo 14 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 11<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Massimo Drago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akita, Akita<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country California<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+Olympic Stadium (Athens) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+HIV country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Wilson Township, Alpena County, Michigan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Apollo 14 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Karnataka country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Poaceae<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Derbyshire Dales country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country China<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+India country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ireland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+John Buscema country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Distinguished Service Medal (United States Navy)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country John van den Brom<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alba Iulia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENAIRE<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Distinguished Service Medal (United States Navy)<tripleToken>ENTITY-2
+Georgia (U.S. state) country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Wolf Solent country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.T. Charlie Johnson<tripleToken>ENTITY-2
+HIV country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+Italy country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sweet potato<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country University of Texas at Austin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Bakewell tart country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Punjab, Pakistan<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Distinguished Service Medal (United States Navy)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+University of Texas at Austin country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Birmingham country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Shumai<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Indonesia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+Duncan Rouleau country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Karnataka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Paracuellos de Jarama country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Massimo Drago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Visvesvaraya Technological University country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lahore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Alba Iulia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+Romania country Alba Iulia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Egg Harbor Township, New Jersey<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Romania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+European University Association country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United Kingdom<tripleToken>ENTITY-2
+Dessert country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Switzerland<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Massimo Drago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Egg Harbor Township, New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lemon<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Estádio Municipal Coaracy da Mata Fonseca<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country John van den Brom<tripleToken>ENTITY-2
+Karnataka country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sweet potato<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Eric Flint<tripleToken>ENTITY-2
+Belgium country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Ícolo e Bengo<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Soho Press<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Egg Harbor Township, New Jersey<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Valencian Community<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cleveland<tripleToken>ENTITY-2
+ENAIRE country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Malaysia<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Massimo Drago country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rolando Maran<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+Ethiopia country Addis Ababa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country All India Council for Technical Education<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Apollo 12<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Greenville, Wisconsin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Premier Development League<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Springer Science+Business Media<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+Egg Harbor Township, New Jersey country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Tennis<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Athens<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dublin<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Lemon<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Azerbaijan Premier League<tripleToken>ENTITY-2
+Harrietstown, New York country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Singapore<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country South Africa<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Spain country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Uttar Pradesh<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Sri Lanka<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+Apollo 11 country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Adams County, Pennsylvania country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country A.T. Charlie Johnson<tripleToken>ENTITY-2
+English language country United States<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Philippines country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+San Sebastián de los Reyes country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Indonesia country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States Air Force<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Campeonato Brasileiro Série C<tripleToken>ENTITY-2
+United Kingdom country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Cornell University<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country All India Council for Technical Education<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Serie B<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Marv Wolfman country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Azerbaijan country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Texas<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country United States<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country English language<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Dessert<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Stuart Parker (footballer)<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country College of William & Mary<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Michele Marcolini<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Julia Morgan<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Rolando Maran<tripleToken>ENTITY-2
+Marv Wolfman country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country India<tripleToken>ENTITY-2
+HIV country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Athens<tripleToken>ENTITY-2
+United States country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+Mexico country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Hong Kong<tripleToken>ENTITY-2
+AZAL Arena country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akita, Akita<tripleToken>ENTITY-2
+ENTITY-1 UNKNOWN country Akron, Ohio<tripleToken>ENTITY-2
+Java country ENTITY-2 UNKNOWN<tripleToken>ENTITY-2

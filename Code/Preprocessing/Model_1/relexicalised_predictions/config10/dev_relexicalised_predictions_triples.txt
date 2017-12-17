@@ -1,0 +1,2268 @@
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batchoy country Philippines<tripleToken>ENTITY-1
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+Bionico country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bacon sandwich country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bacon Explosion country United States<tripleToken>ENTITY-1
+Baked Alaska country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ethiopia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Batagor country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Binignit country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Asam pedas country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ethiopia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batchoy country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country ENTITY-2
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Romania<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+Bhajji country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country Spain<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Batagor country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Batagor country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country Indonesia<tripleToken>ENTITY-1
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country France, United States or China<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Amatriciana sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country France<tripleToken>ENTITY-1
+Asam pedas country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Asam pedas country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France, United States or China<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country United States<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Sri Lanka<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Indonesia<tripleToken>ENTITY-1
+Batchoy country Philippines<tripleToken>ENTITY-1
+Baked Alaska country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Sri Lanka<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Barny Cakes country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Sri Lanka<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batagor country Indonesia<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2
+Beef kway teow country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Romania<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+Ayam penyet country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batagor country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France, United States or China<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Sri Lanka<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Barny Cakes country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Ayam penyet country Java<tripleToken>ENTITY-1
+Binignit country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Batagor country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France, United States or China<tripleToken>ENTITY-1
+Ajoblanco country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bionico country ENTITY-2
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country Singapore<tripleToken>ENTITY-1
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bionico country ENTITY-2
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Batchoy country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arem-arem country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Arròs negre country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Romania<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Binignit country Philippines<tripleToken>ENTITY-1
+Beef kway teow country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Ethiopia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country Indonesia<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+Baked Alaska country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Batchoy country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakewell pudding country ENTITY-2
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country ENTITY-2
+Barny Cakes country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Bacon Explosion country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bandeja paisa country ENTITY-2
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Romania<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Amatriciana sauce country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Japan<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country ENTITY-2
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+Bionico country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Ayam penyet country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Asam pedas country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country ENTITY-2
+Asam pedas country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Batchoy country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Beef kway teow country Singapore<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Spain<tripleToken>ENTITY-1
+Bionico country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Japan<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ethiopia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ayam penyet country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country United States<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ethiopia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batchoy country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bandeja paisa country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France, United States or China<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Amatriciana sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country Spain<tripleToken>ENTITY-1
+Beef kway teow country Singapore<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batchoy country Philippines<tripleToken>ENTITY-1
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batchoy country ENTITY-2
+ENTITY-1 FOOD country Japan<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bacon Explosion country United States<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bionico country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Batchoy country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country Indonesia<tripleToken>ENTITY-1
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country United States<tripleToken>ENTITY-1
+Bhajji country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+Ajoblanco country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batchoy country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakewell pudding country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Denmark<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Binignit country Philippines<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country Indonesia<tripleToken>ENTITY-1
+Ayam penyet country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batchoy country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Bionico country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bacon sandwich country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bacon Explosion country United States<tripleToken>ENTITY-1
+Batchoy country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Asam pedas country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Japan<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Barny Cakes country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+Arròs negre country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arrabbiata sauce country ENTITY-2
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Japan<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Batchoy country ENTITY-2
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Romania<tripleToken>ENTITY-1
+Binignit country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Sri Lanka<tripleToken>ENTITY-1
+Baked Alaska country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Barny Cakes country France<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakewell pudding country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bacon Explosion country United States<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country ENTITY-2
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Batchoy country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Romania<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ajoblanco country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2
+Arem-arem country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Barny Cakes country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country ENTITY-2
+ENTITY-1 FOOD country Japan<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bakso country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bandeja paisa country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2
+Ayam penyet country Java<tripleToken>ENTITY-1
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+Batchoy country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore<tripleToken>ENTITY-1
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ayam penyet country Java<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Spain<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Binignit country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Batagor country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Barny Cakes country ENTITY-2
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon sandwich country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bionico country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Switzerland<tripleToken>ENTITY-1
+Bionico country Mexico<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Binignit country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Sri Lanka<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Barny Cakes country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country Angola<tripleToken>ENTITY-1
+Asam pedas country Malaysia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Asam pedas country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Ajoblanco country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Batagor country Indonesia<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Ethiopia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon sandwich country United Kingdom<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country Singapore and Indonesia<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United States<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Baked Alaska country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Republic of Ireland<tripleToken>ENTITY-1
+Bandeja paisa country ENTITY-2
+Baked Alaska country ENTITY-2
+Amatriciana sauce country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Beef kway teow country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bandeja paisa country Colombian cuisine<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arròs negre country Spain<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arem-arem country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+Ayam penyet country Java<tripleToken>ENTITY-1
+Batchoy country Philippines<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+Bakso country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country United Kingdom<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Arrabbiata sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bacon Explosion country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Amatriciana sauce country Italy<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Bhajji country India<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+Baked Alaska country France<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country Japan<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2 COUNTRY<tripleToken>ENTITY-1
+ENTITY-1 FOOD country ENTITY-2

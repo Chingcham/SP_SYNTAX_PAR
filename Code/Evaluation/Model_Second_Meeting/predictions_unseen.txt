@@ -1,0 +1,2433 @@
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+Azerbaijan fossil FOSSIL
+COMICSCHARACTER voice VOICE
+California language LANGUAGE
+California fossil FOSSIL
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency CURRENCY < tripleToken > COUNTRY currency CURRENCY
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+AUTHOR birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION battles Invasion of Grenada < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > DEATHPLACE leaderName LEADERNAME
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+BIRTHPLACE bird BIRD < tripleToken > WAS A CREW MEMBER OF commander COMMANDER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Antioch , CITYfornia dishVariation DISHVARIATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+BUILDING height HEIGHT < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER abbreviation ABBREVIATION
+California fossil FOSSIL
+SPORTSTEAM season SEASON < tripleToken > SPORTSTEAM league LEAGUE
+California fossil FOSSIL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT country COUNTRY < tripleToken > COUNTRY demonym DEMONYM < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+STATE has to its west HAS TO ITS NORTHEAST < tripleToken > CITYfornia leaderParty LEADERPARTY
+FOOD protein PROTEIN < tripleToken > FOOD mainIngredients MAININGREDIENTS
+California fossil FOSSIL
+Azerbaijan fossil LANGUAGES
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+RELATED dishVariation DISHVARIATION
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY capital CAPITAL < tripleToken > COUNTRY leaderTitle President of the COUNTRY < tripleToken > MONUMENT material MATERIAL
+California mayor MAYOR
+SPORTSTEAM ground GROUND
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Ireland language LANGUAGE
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club CLUB
+United States largestCity LARGESTCITY
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER creator Ernie Colón < tripleToken > Ernie Colón nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT occupation OCCUPATION
+CITY isPartOf ISPARTOF
+California fossil FOSSIL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT almaMater ALMAMATER
+COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER voice VOICE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+Anaheim , CITYfornia areaTotal AREATOTAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY capital CAPITAL < tripleToken > MONUMENT material MATERIAL < tripleToken > FOOD country COUNTRY
+LOCATION leaderParty LEADERPARTY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club Chesterfield F . C . < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD mainIngredients MAININGREDIENTS
+Azerbaijan partsType PARTSTYPE
+AUTHOR birthPlace BIRTHPLACE
+BUILDING owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > BUILDING location LOCATION
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION battles Invasion of Grenada < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > DEATHPLACE leaderName LEADERNAME
+California fossil FOSSIL
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE
+COUNTRY capital CAPITAL < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+Alfred Giles ( architect ) placeOfDeath PLACEOFDEATH
+California fossil FOSSIL
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION
+CITY populationDensity POPULATIONDENSITY
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+LEAGUE champions CHAMPIONS < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING architect ARCHITECT
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+California birthPlace BIRTHPLACE
+CITY leaderParty LEADERPARTY
+Monocacy National Battlefield nearestCity NEARESTCITY
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+Spain leaderName LEADERNAME
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER location LOCATION < tripleToken > MONUMENT material MATERIAL
+COUNTRY ethnicGroup Germans of COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY leaderTitle President of the COUNTRY < tripleToken > FOOD country COUNTRY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+DEATHPLACE leaderName LEADERNAME < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . F . C . Fylde manager MANAGER < tripleToken > MANAGER leaderName LEADERNAME
+Dublin currency CURRENCY
+BUILDING country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY capital CAPITAL < tripleToken > WRITTENWORK location LOCATION
+California representative REPRESENTATIVE < tripleToken > AWARDS higher HIGHER < tripleToken > ASTRONAUT awards AWARDS
+California fossil FOSSIL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT timeInSpace TIMEINSPACE
+BIRTHPLACE postalCode POSTALCODE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate MATERIAL
+Dublin isPartOf ISPARTOF
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+FOOD protein PROTEIN < tripleToken > RELATED dishVariation DISHVARIATION
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+Dublin leaderName LEADERNAME
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+BIRTHPLACE ethnicGroup ETHNICGROUP < tripleToken > ASTRONAUT occupation OCCUPATION < tripleToken > AWARDS higher HIGHER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > ARCHITECT significantBuilding Riverside Art Museum < tripleToken > ARCHITECT significantBuilding Chinatown , BIRTHPLACE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+BUILDING buildingStartDate BUILDINGSTARTDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+California birthPlace BIRTHPLACE
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT awards AWARDS
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER creator CREATOR
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE < tripleToken > FOOD region REGION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+California UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+United States House of Representatives battles BATTLES
+BUILDING architecturalStyle ARCHITECTURALSTYLE < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+COUNTRY language LANGUAGE < tripleToken > WRITTENWORK country COUNTRY
+SPORTSTEAM ground GROUND
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+California language LANGUAGE
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club CLUB
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+CITY isPartOf ISPARTOF
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Monocacy National Battlefield location LOCATION
+CITY leader LEADER < tripleToken > ASTRONAUT awards AWARDS
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+SPORTSTEAM owner OWNER < tripleToken > SPORTSTEAM ground GROUND
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+Apollo 12 commander COMMANDER
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+CITYfornia leaderParty LEADERPARTY
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > COMICSCHARACTER creator CREATOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+BIRTHPLACE bird BIRD < tripleToken > BIRTHPLACE representative REPRESENTATIVE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE part PART
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER creator John Buscema < tripleToken > John Buscema capital CAPITAL < tripleToken > COMICSCHARACTER creator CREATOR
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+California partsType PARTSTYPE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT timeInSpace TIMEINSPACE < tripleToken > ASTRONAUT division DIVISION < tripleToken > COMICSCHARACTER lastAired LASTAIRED
+California partsType PARTSTYPE
+MONUMENT foundingDate FOUNDINGDATE
+Dublin leaderName LEADERNAME
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+California fossil FOSSIL
+Azerbaijan Books parentCompany PARENTCOMPANY
+Max County , Oregon countySeat CITY
+COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > FOOD country COUNTRY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Anaheim , Indiana UTCOffset UTCOFFSET
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER creator CREATOR
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > BUILDING location Colmore Row , BIRTHPLACE , England < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+California fossil FOSSIL
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES
+Azerbaijan currency CURRENCY
+ASTRONAUT officialSchoolColour TIMEINSPACE
+California birthPlace BIRTHPLACE
+ASTRONAUT almaMater ALMAMATER < tripleToken > WRITTENWORK deathPlace COURSE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WRITTENWORK academicDiscipline ACADEMICDISCIPLINE < tripleToken > WRITTENWORK abbreviation ABBREVIATION
+Azerbaijan fossil FOSSIL
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+California religion RELIGION
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Illinois language LANGUAGE
+California fossil FOSSIL
+SPORTSTEAM ground GROUND < tripleToken > MANAGER club CLUB
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION
+COUNTRY leaderName LEADERNAME < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY anthem ANTHEM
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER creator CREATOR < tripleToken > CREATOR birthPlace BIRTHPLACE
+Anaheim , CITYfornia UTCOffset AREATOTAL
+United States largestCity LARGESTCITY
+BUILDING location LOCATION < tripleToken > LOCATION currency CURRENCY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Lemon genus GENUS
+ASTRONAUT foundingDate ALTERNATIVENAMES
+REGION language LANGUAGE < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING tenant TENANT < tripleToken > TENANT birthPlace BIRTHPLACE
+WRITTENWORK publisher PUBLISHER < tripleToken > STARRING birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE
+COUNTRY leaderTitle President of the COUNTRY < tripleToken > WAS A CREW MEMBER OF commander COMMANDER < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Celery genus GENUS
+Antioch , CITYfornia dishVariation DISHVARIATION
+California fossil FOSSIL
+California senators SENATORS
+AIRPORT locationIdentifier LOCATIONIDENTIFIER < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+Azerbaijan Premier League notableWork NOTABLEWORK
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region REGION
+Azerbaijan capital CAPITAL
+COMICSCHARACTER voice VOICE
+AIRPORT runwayLength RUNWAYLENGTH
+AIRPORT location LOCATION < tripleToken > LOCATION isPartOf ISPARTOF < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+HOMETOWN postalCode POSTALCODE < tripleToken > BUILDING owner OWNER < tripleToken > LOCATION country COUNTRY < tripleToken > BUILDING location LOCATION
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+AIRPORT locationIdentifier LOCATIONIDENTIFIER
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD dishVariation DISHVARIATION < tripleToken > GROUND demonym DEMONYM < tripleToken > DISHVARIATION champions CHAMPIONS
+Tennis County , Oregon country COUNTRY
+Azerbaijan Books parentCompany PARENTCOMPANY
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE < tripleToken > WRITTENWORK abbreviation ABBREVIATION
+SPORTSTEAM location LOCATION < tripleToken > LOCATION currency CURRENCY
+AIRPORT operatingOrganisation OPERATINGORGANISATION
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT manager MANAGER < tripleToken > MANAGER club CLUB < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+California champions CHAMPIONS
+OWNER leaderParty LEADERPARTY
+Tennis sportsGoverningBody SPORTSGOVERNINGBODY
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+Lemon genus GENUS
+United States anthem ANTHEM
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > SPORTSTEAM manager AUTHOR < tripleToken > SPORTSTEAM season SEASON
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+California birthPlace BIRTHPLACE
+FOOD protein PROTEIN < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset POSTALCODE
+BIRTHPLACE bird BIRD < tripleToken > BIRTHPLACE isPartOf ISPARTOF < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE part PART
+RELATED dishVariation DISHVARIATION
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+BIRTHPLACE bird BIRD < tripleToken > WAS A CREW MEMBER OF commander COMMANDER < tripleToken > SPORTSTEAM ground GROUND
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+WRITTENWORK abbreviation ABBREVIATION < tripleToken > WRITTENWORK birthPlace BIRTHPLACE < tripleToken > WRITTENWORK mediaType MEDIATYPE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Tennis sportsGoverningBody SPORTSGOVERNINGBODY
+California birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT was selected by NASA WAS SELECTED BY NASA < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+California birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT battles BATTLES
+Eastern Province , Sri Lanka House of Representatives foundationPlace FOUNDATIONPLACE
+MONUMENT category CATEGORY < tripleToken > AIRPORT location LOCATION < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER < tripleToken > AIRPORT ICAO Location Identifier ICAO_LOCATION_IDENTIFIER
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER creator CREATOR
+UNIVERSITY dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+Dublin leaderName LEADERNAME
+FOOD protein PROTEIN < tripleToken > FOOD fat FAT < tripleToken > FOOD carbohydrate CARBOHYDRATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD country COUNTRY < tripleToken > COUNTRY demonym COUNTRYn people < tripleToken > COUNTRY capital CAPITAL
+Alfred Giles ( architect ) placeOfDeath PLACEOFDEATH
+COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+California birthPlace BIRTHPLACE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+California senators SENATORS
+MONUMENT architecturalStyle ARCHITECTURALSTYLE < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+United States House of Representatives battles BATTLES
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > AIRPORT cityServed CITYSERVED < tripleToken > SPORTSTEAM league LEAGUE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California birthPlace BIRTHPLACE
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING architect ARCHITECT
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+United States Air Force battles BATTLES
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan fossil FOSSIL
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > BUILDING awards TENANT
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+DISTRICT location LOCATION < tripleToken > LOCATION leaderName LEADERNAME < tripleToken > AWARDS locationCity LOCATIONCITY < tripleToken > LOCATION birthPlace BIRTHPLACE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > CITYfornia part PART
+California fossil FOSSIL
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE < tripleToken > LEAGUE birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY demonym DEMONYM < tripleToken > WRITTENWORK country COUNTRY
+RELATED dishVariation DISHVARIATION < tripleToken > LEAGUE champions CHAMPIONS
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator Dan Mishkin < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+The the The Bavarian Crisis birthPlace BIRTHPLACE
+A . S . Livorno Calcio manager MANAGER < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+AIRPORT runwayLength RUNWAYLENGTH < tripleToken > ASTRONAUT birthDate BIRTHDATE
+SPORTSTEAM owner OWNER < tripleToken > OWNER chancellor CHANCELLOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+OPERATOR ( operator OPERATOR
+Antioch , CITYfornia leaderTitle LEADERTITLE
+COUNTRY capital CAPITAL < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK country COUNTRY < tripleToken > BUILDING location LOCATION
+LOCATION leaderParty LEADERPARTY < tripleToken > BUILDING location LOCATION
+California fossil FOSSIL
+CITYfornia LEADERNAME < tripleToken > COUNTRY leaderName LEADERNAME
+California birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+California birthPlace BIRTHPLACE
+United States House of Representatives battles BATTLES
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region Nationwide in COUNTRY and Indonesia < tripleToken > COUNTRY language LANGUAGE
+MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+California fossil FOSSIL
+TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING owner OWNER < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT designer DESIGNER
+Frank Costa location LOCATION
+California birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+SPORTSTEAM league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > SPORTSTEAM ground GROUND
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING cost COST < tripleToken > CURRENTTENANTS country COUNTRY
+LOCATION leaderName LEADERNAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Ernie Colón award AWARD
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND < tripleToken > GROUND leader LEADER < tripleToken > MANAGER club CLUB
+FOOD country COUNTRY < tripleToken > COUNTRY demonym DEMONYM < tripleToken > COUNTRY anthem ANTHEM < tripleToken > COUNTRY leaderName LEADERNAME
+California fossil FOSSIL
+FOOD country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY < tripleToken > CREATOR birthPlace BIRTHPLACE
+California fossil FOSSIL
+Azerbaijan fossil FOSSIL
+Azerbaijan legislature LEGISLATURE
+California fossil FOSSIL
+SPORTSTEAM ground GROUND < tripleToken > WAS A CREW MEMBER OF crewMembers CREWMEMBERS
+SPORTSTEAM league LEAGUE < tripleToken > COMICSCHARACTER creator CREATOR
+California fossil FOSSIL
+ASTRONAUT birthDate BIRTHDATE
+California fossil FOSSIL
+ASTRONAUT nationality NATIONALITY < tripleToken > STARRING mascot MASCOT < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT almaMater ALMAMATER
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency CURRENCY < tripleToken > COUNTRY currency CURRENCY < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+LOCATION leaderName LEADERNAME < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY currency COUNTRYn rupiah
+COMICSCHARACTER voice VOICE < tripleToken > VOICE division DIVISION < tripleToken > COMICSCHARACTER creator CREATOR
+BROADCASTEDBY keyPerson KEYPERSON < tripleToken > COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+Eastern Province , Sri Lanka governingBody GOVERNINGBODY
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+LOCATION leaderParty LEADERPARTY < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material BIRTHDATE < tripleToken > MONUMENT location LOCATION
+ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > AIRPORT cityServed CITYSERVED < tripleToken > AWARDS higher club CLUB
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES < tripleToken > OPERATINGORGANISATION battles BATTLES
+California fossil FOSSIL
+California fossil FOSSIL
+California fossil FOSSIL
+California nationality NATIONALITY
+COUNTRY leaderTitle President of the COUNTRY < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+SPORTSTEAM league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California fossil FOSSIL
+COUNTRY currency CURRENCY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+AIRPORT operatingOrganisation OPERATINGORGANISATION
+ASTRONAUT nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER mediaType MEDIATYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+BUILDING currentTenants CURRENTTENANTS < tripleToken > CURRENTTENANTS country COUNTRY < tripleToken > BUILDING bedCount BEDCOUNT
+RELATED dishVariation DISHVARIATION
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthDate BIRTHDATE
+AIRPORT locationIdentifier LOCATIONIDENTIFIER
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER creator Ernie Colón < tripleToken > Ernie Colón nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+California fossil FOSSIL
+California representative REPRESENTATIVE
+California fossil FOSSIL
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+COMICSCHARACTER voice VOICE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT was selected by NASA WAS SELECTED BY NASA
+Spain currency CURRENCY
+SPORTSTEAM league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Antioch , CITYfornia postalCode POSTALCODE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT location LOCATION < tripleToken > LOCATION leaderName LEADERNAME < tripleToken > LOCATION birthPlace BIRTHPLACE
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+California fossil FOSSIL
+United States House of Representatives country COUNTRY
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT deathDate DEATHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY leaderName LEADERNAME < tripleToken > BIRTHPLACE leaderParty LEADERPARTY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WRITTENWORK followedBy FOLLOWEDBY
+COMICSCHARACTER voice VOICE
+FOOD country COUNTRY < tripleToken > COUNTRY ethnicGroup ETHNICGROUP < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY ethnicGroup ETHNICGROUP
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > AIRPORT owner OWNER < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER < tripleToken > AIRPORT ICAO Location Identifier ICAO_LOCATION_IDENTIFIER < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan religion RELIGION
+COUNTRY leaderName LEADERNAME < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY < tripleToken > LOCATIONCITY country COUNTRY
+California birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > CREATOR nationality NATIONALITY < tripleToken > NATIONALITY leaderName LEADERNAME < tripleToken > COMICSCHARACTER broadcastedBy BROADCASTEDBY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+FOOD country COUNTRY < tripleToken > UNIVERSITY campus CAMPUS
+BUILDING owner OWNER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California birthPlace BIRTHPLACE
+California fossil FOSSIL
+Birmingham leaderName LEADERNAME
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+SPORTSTEAM owner OWNER < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement CATEGORY < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT nationality NATIONALITY
+Azerbaijan fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Azerbaijan demonym DEMONYM
+California birthPlace BIRTHPLACE
+Azerbaijan fossil FOSSIL
+Birmingham leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+MONUMENT location LOCATION < tripleToken > LOCATION ethnicGroups ETHNICGROUPS < tripleToken > LOCATION languages LANGUAGES
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > FOOD nationality NATIONALITY
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > AUTHOR birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+COMICSCHARACTER voice VOICE
+SPORTSTEAM league LEAGUE
+BUILDING location LOCATION < tripleToken > TENANT birthPlace BIRTHPLACE
+AIRPORT locationIdentifier LOCATIONIDENTIFIER < tripleToken > AIRPORT locationIdentifier LOCATIONIDENTIFIER
+COUNTRY capital CAPITAL < tripleToken > MONUMENT material MATERIAL < tripleToken > MONUMENT dedicatedTo DEDICATEDTO < tripleToken > FOOD country COUNTRY
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS < tripleToken > SPORTSTEAM season SEASON
+DISTRICT location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION battles BATTLES < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+United States ethnicGroup ETHNICGROUP
+Azerbaijan fossil FOSSIL
+PARENTCOMPANY Press parentCompany PARENTCOMPANY
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club KV Mechelen < tripleToken > MANAGER club CLUB
+SPORTSTEAM ground GROUND < tripleToken > GROUND leaderParty LEADERPARTY
+California representative REPRESENTATIVE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION battles Invasion of Grenada < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > OPERATINGORGANISATION battles BATTLES
+TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING owner OWNER < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT designer DESIGNER
+California fossil FOSSIL
+RELATED dishVariation DISHVARIATION
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California fossil FOSSIL
+California fossil FOSSIL
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT campus CAMPUS
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+FOOD country COUNTRY < tripleToken > COUNTRY ethnicGroup COUNTRYn Chinese < tripleToken > REGION ethnicGroup ETHNICGROUP < tripleToken > FOOD region REGION
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Azerbaijan fossil FOSSIL
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER mediaType VOICE < tripleToken > BROADCASTEDBY keyPerson KEYPERSON < tripleToken > COMICSCHARACTER creator CREATOR
+BUILDING location LOCATION < tripleToken > LOCATION ethnicGroups ETHNICGROUPS < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION < tripleToken > FOOD country COUNTRY
+Azerbaijan keyPerson KEYPERSON < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+California religion RELIGION
+Alfred Giles ( architect ) placeOfDeath PLACEOFDEATH
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Celery genus GENUS
+FOOD country COUNTRY < tripleToken > COUNTRY ethnicGroup Native people in the COUNTRY < tripleToken > COUNTRY leaderTitle President of the COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+Illinois country COUNTRY
+BUILDING floorArea FLOORAREA < tripleToken > SPORTSTEAM ground GROUND
+SPORTSTEAM league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > SPORTSTEAM ground GROUND
+AZ Alkmaar manager MANAGER < tripleToken > MANAGER club Alianza F . C . < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+BIRTHPLACE representative REPRESENTATIVE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+LOCATION leaderTitle LEADERTITLE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT
+Philippines ethnicGroup ETHNICGROUP
+ASTRONAUT timeInSpace TIMEINSPACE < tripleToken > AIRPORT runwayLength RUNWAYLENGTH < tripleToken > MONUMENT birthDate BIRTHDATE
+AUTHOR birthPlace BIRTHPLACE < tripleToken > COUNTRY largestCity LARGESTCITY < tripleToken > FOOD country COUNTRY
+California birthPlace BIRTHPLACE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+United Kingdom demonym DEMONYM
+BUILDING owner OWNER < tripleToken > OWNER chancellor CHANCELLOR
+California fossil FOSSIL
+FOOD protein PROTEIN < tripleToken > RELATED dishVariation DISHVARIATION
+ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > WAS A CREW MEMBER OF operator OPERATOR < tripleToken > MANAGER club CLUB
+A . S . Livorno Calcio manager MANAGER < tripleToken > MANAGER club A . S . Roma < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+SPORTSTEAM league LEAGUE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+LEAGUE champions CHAMPIONS < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER
+SPORTSTEAM league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS
+BUILDING height HEIGHT < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER creator CREATOR
+COUNTRY capital CAPITAL < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+California fossil FOSSIL
+AUTHOR birthPlace BIRTHPLACE
+California fossil FOSSIL
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION battles BATTLES
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > MONUMENT birthDate BIRTHDATE < tripleToken > MONUMENT inaugurationDate INAUGURATIONDATE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+California fossil FOSSIL
+California fossil FOSSIL
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName Joko Widodo < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY demonym DEMONYM
+California fossil FOSSIL
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club KV Mechelen < tripleToken > MANAGER club CLUB
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Dublin governmentType GOVERNMENTTYPE
+COUNTRY currency CURRENCY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > FOOD country COUNTRY
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Celery genus GENUS
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+COMICSCHARACTER creator Ernie Colón < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+CITY areaTotal AREATOTAL < tripleToken > SPORTSTEAM ground GROUND
+COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Spain leaderName LEADERNAME < tripleToken > BUILDING currentTenants CURRENTTENANTS
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Akron Summit Assault manager MANAGER < tripleToken > MANAGER placeOfBirth PLACEOFBIRTH < tripleToken > MANAGER club SPORTSTEAM
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION battles Invasion of Grenada < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+FOOD course COURSE
+California language LANGUAGE
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+REGION leaderName LEADERNAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset AREATOTAL
+Azerbaijan fossil FOSSIL
+CREATOR nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER creator CREATOR < tripleToken > CREATOR award AWARD
+AIRPORT locationIdentifier LOCATIONIDENTIFIER < tripleToken > AIRPORT locationIdentifier LOCATIONIDENTIFIER
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK mediaType MEDIATYPE < tripleToken > COUNTRY leaderTitle President of the COUNTRY < tripleToken > COMICSCHARACTER creator CREATOR
+United States Air Force battles BATTLES
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan fossil FOSSIL
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+Eastern Province , Sri Lanka demonym DEMONYM
+AUTHOR birthPlace BIRTHPLACE < tripleToken > REGION ethnicGroup ETHNICGROUP < tripleToken > REGION leaderName LEADERNAME < tripleToken > FOOD region REGION
+DISTRICT location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+CITYfornia leaderParty LEADERPARTY
+California fossil FOSSIL
+California fossil FOSSIL
+California fossil FOSSIL
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY demonym DEMONYM < tripleToken > COUNTRY ethnicGroup DEMONYM < tripleToken > MONUMENT location LOCATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+LOCATION leaderParty LEADERPARTY < tripleToken > BUILDING location LOCATION < tripleToken > LOCATION country COUNTRY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT
+California birthPlace BIRTHPLACE
+Azerbaijan fossil FOSSIL
+WRITTENWORK editor EDITOR < tripleToken > EDITOR almaMater ALMAMATER < tripleToken > EDITOR doctoralAdvisor DOCTORALADVISOR
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > FOOD ingredient INGREDIENT
+FOOD country COUNTRY < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND < tripleToken > GROUND leader LEADER < tripleToken > MANAGER club CLUB
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club KV Mechelen < tripleToken > MANAGER club CLUB
+California fossil FOSSIL
+MONUMENT country COUNTRY < tripleToken > OPERATINGORGANISATION locationCity LOCATIONCITY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency CURRENCY
+ASTRONAUT location LOCATION < tripleToken > SPORTSTEAM season SEASON < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > MANAGER club CLUB
+Apollo 8 commander COMMANDER
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+AIRPORT cityServed CITYSERVED < tripleToken > JURISDICTION leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY capital CAPITAL < tripleToken > COUNTRY language LANGUAGE < tripleToken > COUNTRY demonym DEMONYM < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY ethnicGroup Native DEMONYM in the COUNTRY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+COMICSCHARACTER owner OWNER < tripleToken > MONUMENT material MATERIAL
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+COMICSCHARACTER location LOCATION < tripleToken > AUTHOR ethnicGroups ETHNICGROUPS < tripleToken > AUTHOR birthPlace BIRTHPLACE
+California fossil FOSSIL
+RELATED dishVariation DISHVARIATION
+The Ireland language LANGUAGE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT timeInSpace TIMEINSPACE
+Azerbaijan partsType PARTSTYPE
+LOCATION leaderTitle LEADERTITLE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT country COUNTRY
+RELATED dishVariation DISHVARIATION
+CITYfornia leaderParty LEADERPARTY
+LOCATION isPartOf ISPARTOF < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT awards AWARDS
+California senators SENATORS
+BIRTHPLACE representative REPRESENTATIVE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+AUTHOR birthPlace BIRTHPLACE < tripleToken > REGION leaderName Jusuf Kalla < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup COUNTRYn Malay < tripleToken > FOOD region REGION
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION
+COMICSCHARACTER voice VOICE
+Iraq representative REPRESENTATIVE
+Eastern Province , Sri Lanka birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+CITYfornia leaderParty LEADERPARTY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset POSTALCODE
+AIRPORT location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > LOCATION isPartOf ISPARTOF
+ASTRONAUT was selected by National Technical Campus ' status by WAS A CREW MEMBER OF < tripleToken > ASTRONAUT timeInSpace TIMEINSPACE
+BUILDING height HEIGHT < tripleToken > CURRENTTENANTS country COUNTRY < tripleToken > BUILDING currentTenants CURRENTTENANTS
+COUNTRY ethnicGroup Zamboangans < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK language LANGUAGE < tripleToken > LANGUAGE spokenIn SPOKENIN < tripleToken > BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+AIRPORT locationIdentifier LOCATIONIDENTIFIER
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+California fossil REPRESENTATIVE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+California fossil FOSSIL
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+BUILDING architecturalStyle ARCHITECTURALSTYLE < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+LEAGUE champions CHAMPIONS < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT
+CITYfornia fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Celery genus GENUS
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT campus CAMPUS < tripleToken > UNIVERSITY birthPlace BIRTHPLACE < tripleToken > UNIVERSITY sportsOffered SPORTSOFFERED < tripleToken > AFFILIATION headquarters HEADQUARTERS
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+BUILDING location LOCATION < tripleToken > SPORTSTEAM ground GROUND < tripleToken > WAS A CREW MEMBER OF operator OPERATOR
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+MANAGER club CLUB < tripleToken > SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB < tripleToken > MANAGER club CLUB
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER creator CREATOR
+Azerbaijan fossil FOSSIL
+California fossil FOSSIL
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE < tripleToken > LEAGUE birthPlace BIRTHPLACE
+United States House of Representatives battles BATTLES
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > STARRING mascot MASCOT < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > Ernie Colón award AWARD < tripleToken > RELATED dishVariation DISHVARIATION
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > LOCATION leaderTitle LEADERTITLE < tripleToken > MONUMENT location LOCATION
+United States ethnicGroup ETHNICGROUP
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT placeOfDeath PLACEOFDEATH
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > FOOD country COUNTRY
+COUNTRY currency CURRENCY < tripleToken > FOOD country COUNTRY
+California fossil FOSSIL
+BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+ASTRONAUT was awarded WAS AWARDED < tripleToken > AWARDS higher HIGHER < tripleToken > ASTRONAUT awards AWARDS
+SPORTSTEAM league LEAGUE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WRITTENWORK followedBy FOLLOWEDBY
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club CLUB
+BIRTHPLACE partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING owner OWNER < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT designer DESIGNER
+SPORTSTEAM manager MANAGER
+ASTRONAUT was awarded WAS AWARDED < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > COMICSCHARACTER creator CREATOR
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > MONUMENT dedicatedTo as Army soldiers killed in SERVED AS CHIEF OF THE ASTRONAUT OFFICE IN < tripleToken > ASTRONAUT was awarded WAS AWARDED
+AUTHOR birthPlace BIRTHPLACE < tripleToken > COUNTRY leaderTitle President of the COUNTRY < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup ETHNICGROUP
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY capital CAPITAL < tripleToken > COUNTRY demonym DEMONYM < tripleToken > COUNTRY ethnicGroup DEMONYM < tripleToken > MONUMENT location LOCATION
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California areaOfWater AREAOFWATER
+SPORTSTEAM season SEASON < tripleToken > ASTRONAUT birthDate BIRTHDATE
+REGION leaderName LEADERNAME < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT country COUNTRY
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT DISHVARIATION < tripleToken > DISHVARIATION ingredient INGREDIENT
+BUILDING owner OWNER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+FOOD country COUNTRY < tripleToken > FOOD ingredient INGREDIENT
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+DEATHPLACE gemstone GEMSTONE < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+CITY populationDensity POPULATIONDENSITY < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+California fossil FOSSIL
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+CREATOR nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+REGION language LANGUAGE < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING tenant TENANT < tripleToken > TENANT birthPlace BIRTHPLACE
+Monocacy National Battlefield location LOCATION
+COMICSCHARACTER voice VOICE < tripleToken > Jan Press parentCompany PARENTCOMPANY
+California fossil FOSSIL
+SPORTSTEAM manager MANAGER
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > AIRPORT location LOCATION < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+Birmingham leaderName LEADERNAME
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+FOOD country COUNTRY < tripleToken > COUNTRY ethnicGroup ETHNICGROUP
+Azerbaijan partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+AUTHOR champions CHAMPIONS < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY keyPerson KEYPERSON
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > ASTRONAUT deathPlace DEATHPLACE
+California areaTotal AREATOTAL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+ASTRONAUT status STATUS < tripleToken > MONUMENT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > BUILDING location LOCATION
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+REGION largestCity LARGESTCITY < tripleToken > FOOD region REGION
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+COMICSCHARACTER voice VOICE
+California birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+California fossil FOSSIL
+BROADCASTEDBY keyPerson KEYPERSON < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > REGION leaderName LEADERNAME
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+BROADCASTEDBY keyPerson KEYPERSON < tripleToken > COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+COMICSCHARACTER voice VOICE < tripleToken > Ernie Ordway award AWARD < tripleToken > RELATED dishVariation DISHVARIATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+AIRPORT location LOCATION < tripleToken > LOCATION isPartOf ISPARTOF
+COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California birthPlace BIRTHPLACE
+California birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+Julia Morgan birthPlace BIRTHPLACE
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > MONUMENT location LOCATION
+Christian Panucci club CLUB
+ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE senators SENATORS < tripleToken > WAS A CREW MEMBER OF operator OPERATOR
+LOCATIONCITY isPartOf ISPARTOF < tripleToken > OPERATINGORGANISATION locationCity LOCATIONCITY < tripleToken > LOCATIONCITY isPartOf ISPARTOF < tripleToken > AIRPORT location LOCATION
+DEATHPLACE gemstone GEMSTONE < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE senators SENATORS
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency CURRENCY < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+BUILDING location Adare < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+COUNTRY ethnicGroup Native Americans in the COUNTRY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WRITTENWORK country COUNTRY
+FOOD dishVariation DISHVARIATION < tripleToken > FOOD protein PROTEIN < tripleToken > FOOD country COUNTRY
+RELATED dishVariation DISHVARIATION
+SPORTSTEAM ground GROUND
+Sri Lanka birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+AIRPORT location LOCATION < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+California birthPlace BIRTHPLACE
+SPORTSTEAM owner OWNER < tripleToken > MONUMENT inaugurationDate INAUGURATIONDATE < tripleToken > MONUMENT location LOCATION
+Azerbaijan partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM dishVariation DISHVARIATION < tripleToken > DISHVARIATION ingredient INGREDIENT
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION battles Korean War < tripleToken > OPERATINGORGANISATION battles BATTLES
+California fossil FOSSIL
+CITY populationDensity POPULATIONDENSITY
+Azerbaijan legislature LEGISLATURE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+LOCATION currency CURRENCY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT birthDate BIRTHDATE < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+LOCATION leaderParty LEADERPARTY < tripleToken > MONUMENT birthPlace BIRTHPLACE < tripleToken > LOCATION leaderName LEADERNAME < tripleToken > LOCATION isPartOf ISPARTOF
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+OPERATOR ( amateurs ) ground GROUND < tripleToken > GROUND operator OPERATOR < tripleToken > GROUND owner OWNER < tripleToken > GROUND location LOCATION
+California fossil FOSSIL
+FOOD country COUNTRY < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+California fossil FOSSIL
+California fossil FOSSIL
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+HOMETOWN postalCode POSTALCODE < tripleToken > COUNTRY largestCity LARGESTCITY < tripleToken > COUNTRY language LANGUAGE < tripleToken > WRITTENWORK precededBy PRECEDEDBY
+BUILDING architecturalStyle ARCHITECTURALSTYLE < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+FOOD dishVariation DISHVARIATION
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT almaMater ALMAMATER
+RELATED dishVariation DISHVARIATION
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER creator Paris Cullins < tripleToken > CREATOR nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+SPORTSTEAM owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > SPORTSTEAM ground GROUND
+Indian Air Force battles BATTLES
+MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD country COUNTRY < tripleToken > COUNTRY demonym DEMONYM
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Paris Cullins birthPlace BIRTHPLACE
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT birthDate BIRTHDATE
+CITY leaderParty LEADERPARTY
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+SPORTSTEAM location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+California birthPlace BIRTHPLACE
+COMICSCHARACTER creator Gardner Fox < tripleToken > Paris Cullins nationality NATIONALITY < tripleToken > COMICSCHARACTER creator Dan Mishkin < tripleToken > COMICSCHARACTER creator CREATOR
+California birthPlace BIRTHPLACE
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS < tripleToken > COMICSCHARACTER lastAired LASTAIRED
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY demonym DEMONYM < tripleToken > WRITTENWORK country COUNTRY
+Tennis sportsGoverningBody SPORTSGOVERNINGBODY
+RELATED dishVariation DISHVARIATION
+California birthPlace BIRTHPLACE
+MONUMENT foundingDate FOUNDINGDATE
+BUILDING height HEIGHT < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material BIRTHDATE
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD creator CREATOR < tripleToken > COUNTRY leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+COUNTRY language LANGUAGE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California birthPlace BIRTHPLACE
+CITY populationDensity POPULATIONDENSITY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT almaMater ALMAMATER
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+BUILDING completionDate COMPLETIONDATE < tripleToken > CURRENTTENANTS country COUNTRY < tripleToken > BUILDING currentTenants CURRENTTENANTS
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+Christian Panucci club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+Azerbaijan fossil FOSSIL
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+California birthPlace BIRTHPLACE
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+California birthPlace BIRTHPLACE
+Dublin languages LANGUAGES
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Chesterfield F . C . < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+MONUMENT foundingDate FOUNDINGDATE
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY officialLanguage OFFICIALLANGUAGE < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY demonym DEMONYM
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+Antioch , CITYfornia areaOfWater AREAOFWATER < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE
+Dublin isPartOf ISPARTOF
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club KV Mechelen < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND < tripleToken > GROUND leader LEADER
+California fossil FOSSIL
+Monocacy National Battlefield location LOCATION
+UNIVERSITY owner OWNER < tripleToken > LOCATION leaderTitle LEADERTITLE < tripleToken > MONUMENT location LOCATION < tripleToken > LOCATION country COUNTRY
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > ISPARTOF City isPartOf ISPARTOF
+FOOD protein PROTEIN < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > MONUMENT nationality NATIONALITY < tripleToken > BUILDING location LOCATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Sheldon Moldoff award AWARD
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club CLUB
+Monocacy National Battlefield location LOCATION
+UNIVERSITY city CITY < tripleToken > UNIVERSITY director DIRECTOR < tripleToken > CITY governmentType GOVERNMENTTYPE
+Eastern : The Bavarian Crisis followedBy FOLLOWEDBY < tripleToken > Above the Veil precededBy WRITTENWORK < tripleToken > Above the Veil precededBy WRITTENWORK
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+LOCATION isPartOf ISPARTOF < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+COUNTRY leaderName LEADERNAME < tripleToken > LOCATION capital CAPITAL < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY < tripleToken > LOCATION country COUNTRY
+BUILDING height HEIGHT < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+CAPITAL capital CAPITAL < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan leaderName LEADERNAME
+Celery genus GENUS
+COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT dishVariation DATEOFRETIREMENT
+California birthPlace BIRTHPLACE
+Azerbaijan fossil FOSSIL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MANAGER club Empoli F . C . < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club Alianza F . C . < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE < tripleToken > Above the Veil precededBy WRITTENWORK
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER placeOfBirth PLACEOFBIRTH < tripleToken > MANAGER club CLUB
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+BUILDING location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+COMICSCHARACTER voice VOICE < tripleToken > VOICE birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+MONUMENT category CATEGORY < tripleToken > MONUMENT foundingDate FOUNDINGDATE
+COUNTRY language LANGUAGE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY demonym DEMONYM < tripleToken > COUNTRY leaderName LEADERNAME
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName Joko Widodo < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency CURRENCY
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+RELATED dishVariation DISHVARIATION
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT doctoralAdvisor DOCTORALADVISOR < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+Apollo 8 commander COMMANDER
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > REGION ethnicGroup ETHNICGROUP < tripleToken > REGION leaderName LEADERNAME < tripleToken > FOOD region REGION
+California fossil FOSSIL
+BROADCASTEDBY keyPerson KEYPERSON < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT significantBuilding SIGNIFICANTBUILDING < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Iraq leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > BUILDING currentTenants CURRENTTENANTS < tripleToken > CURRENTTENANTS country COUNTRY
+California fossil FOSSIL
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+Azerbaijan legislature LEGISLATURE
+California fossil FOSSIL
+Dublin leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+DEATHPLACE gemstone GEMSTONE < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE senators SENATORS
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+RELATED dishVariation DISHVARIATION
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+LOCATIONCITY isPartOf ISPARTOF < tripleToken > OPERATINGORGANISATION locationCity LOCATIONCITY < tripleToken > AIRPORT location LOCATION < tripleToken > LOCATIONCITY isPartOf ISPARTOF
+MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT
+The California nationality NATIONALITY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator Dan Mishkin < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > SPORTSTEAM manager AUTHOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+California birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD similarDish SIMILARDISH < tripleToken > RELATED dishVariation DISHVARIATION
+MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > PARENTCOMPANY Press leaderName LEADERNAME < tripleToken > BIRTHPLACE language LANGUAGE < tripleToken > BIRTHPLACE leaderTitle LEADERTITLE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+COUNTRY leaderName LEADERNAME < tripleToken > LOCATION leaderTitle LEADERTITLE < tripleToken > MONUMENT country COUNTRY < tripleToken > COUNTRY anthem ANTHEM
+WRITTENWORK location LOCATION < tripleToken > AUTHOR ethnicGroups ETHNICGROUPS < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY foundedBy FOUNDEDBY
+COUNTRY leaderTitle President of the COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK country COUNTRY
+COUNTRY leaderName LEADERNAME < tripleToken > LOCATION leaderTitle LEADERTITLE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY anthem ANTHEM
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Azerbaijan fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan fossil FOSSIL
+COUNTRY leaderName LEADERNAME < tripleToken > FOOD country COUNTRY
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+SPORTSTEAM season SEASON < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+WRITTENWORK mediaType MEDIATYPE < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > CREATOR birthPlace BIRTHPLACE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION battles BATTLES
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+California fossil FOSSIL
+Azerbaijan fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK country COUNTRY
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+RELATED dishVariation DISHVARIATION
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+Azerbaijan keyPerson KEYPERSON
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+COUNTRY currency CURRENCY < tripleToken > FOOD country COUNTRY
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+WRITTENWORK author AUTHOR < tripleToken > AUTHOR ethnicGroups ETHNICGROUPS < tripleToken > AUTHOR birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+United States largestCity LARGESTCITY
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > FOOD country COUNTRY
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+COUNTRY capital CAPITAL < tripleToken > MONUMENT material MATERIAL < tripleToken > MONUMENT country COUNTRY
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+DEATHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE ethnicGroup ETHNICGROUP
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER voice VOICE
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM numberOfMembers NUMBEROFMEMBERS
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+AIRPORT cityServed FULLNAME < tripleToken > SPORTSTEAM ground GROUND < tripleToken > AIRPORT cityServed CITYSERVED < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER
+BIRTHPLACE leaderName LEADERNAME < tripleToken > BIRTHPLACE ethnicGroup ETHNICGROUP < tripleToken > BIRTHPLACE ethnicGroup ETHNICGROUP < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WRITTENWORK mediaType MEDIATYPE
+The United States STARRING ETHNICGROUP
+RELATED dishVariation DISHVARIATION
+BUILDING owner OWNER < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region Nationwide in COUNTRY and Indonesia < tripleToken > COUNTRY language LANGUAGE
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club KV Mechelen < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Apollo 8 crewMembers CREWMEMBERS
+MONUMENT nativeName NATIVENAME < tripleToken > AIRPORT location LOCATION < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER
+LOCATION leaderTitle LEADERTITLE < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY language LANGUAGE
+BROADCASTEDBY keyPerson KEYPERSON < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE part PART
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+FOOD country COUNTRY < tripleToken > COUNTRY capital CAPITAL < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+California fossil FOSSIL
+California fossil FOSSIL
+California birthPlace BIRTHPLACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING architect ARCHITECT
+California fossil FOSSIL
+Antioch , CITYfornia postalCode POSTALCODE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER creator CREATOR < tripleToken > CREATOR award AWARD < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+AIRPORT locationIdentifier LOCATIONIDENTIFIER
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+HOMETOWN representative REPRESENTATIVE < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > WRITTENWORK mediaType MEDIATYPE
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Chesterfield F . C . < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+Tennis sportsGoverningBody SPORTSGOVERNINGBODY
+Monocacy National Battlefield location LOCATION
+Azerbaijan fossil FOSSIL
+CITY isPartOf ISPARTOF
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan fossil FOSSIL
+CITY isPartOf ISPARTOF < tripleToken > ASTRONAUT birthPlace CITY < tripleToken > CITY governmentType GOVERNMENTTYPE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+MANAGER club SPORTSTEAM < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club CLUB
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+AUTHOR notableWork NOTABLEWORK < tripleToken > AWARDS higher HIGHER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT placeOfDeath PLACEOFDEATH < tripleToken > OPERATINGORGANISATION battles BATTLES
+California fossil FOSSIL
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Azerbaijan leaderName LEADERNAME
+COMICSCHARACTER creator CREATOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD creator CREATOR < tripleToken > COUNTRY leaderName LEADERNAME
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+COMICSCHARACTER creator Ernie Colón < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+Antioch , CITYfornia areaOfWater FOUNDER
+Ethiopia leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California currency CURRENCY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > MONUMENT birthDate BIRTHDATE
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+United States abbreviation ABBREVIATION
+Taylor County , Texas country COUNTRY
+Azerbaijan fossil FOSSIL
+MONUMENT category CATEGORY < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+California fossil FOSSIL
+Monocacy National Battlefield location LOCATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Birmingham governingBody GOVERNINGBODY
+California fossil FOSSIL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Alfred Giles ( architect ) placeOfDeath PLACEOFDEATH
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > BUILDING location Colmore Row , BIRTHPLACE , England < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > MONUMENT country COUNTRY
+BUILDING architecturalStyle ARCHITECTURALSTYLE < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+GROUND officialLanguage OFFICIALLANGUAGE < tripleToken > AIRPORT cityServed CITYSERVED < tripleToken > GROUND owner OWNER
+RELATED dishVariation DISHVARIATION
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+California birthPlace BIRTHPLACE
+Dublin leaderName LEADERNAME
+California fossil FOSSIL
+BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California fossil FOSSIL
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+California language LANGUAGE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > OPERATINGORGANISATION battles BATTLES
+California fossil FOSSIL
+Azerbaijan legislature LEGISLATURE
+California capital CAPITAL
+BIRTHPLACE leaderName LEADERNAME < tripleToken > BIRTHPLACE language LANGUAGE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME < tripleToken > WRITTENWORK birthPlace BIRTHPLACE
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+BUILDING location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER
+AIRPORT location LOCATION < tripleToken > LOCATION language LANGUAGE < tripleToken > LOCATION languages LANGUAGES < tripleToken > LOCATION religion Church of LOCATION
+COMICSCHARACTER voice VOICE
+Dublin leaderName LEADERNAME
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION
+SPORTSTEAM ground GROUND < tripleToken > WAS A CREW MEMBER OF operator OPERATOR < tripleToken > ASTRONAUT status STATUS
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Celery genus GENUS
+Antioch , CITYfornia areaTotal AREATOTAL
+DEATHPLACE gemstone GEMSTONE < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE senators SENATORS
+MANAGER club Empoli F . C . < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+BUILDING owner OWNER < tripleToken > OWNER chancellor CHANCELLOR
+COMICSCHARACTER voice VOICE
+California birthPlace BIRTHPLACE
+ASTRONAUT was given the ' Technical Campus ' status by WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY
+Antioch , CITYfornia UTCOffset POSTALCODE
+California fossil FOSSIL
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING architect ARCHITECT < tripleToken > BUILDING owner OWNER
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+OWNER countySeat COUNTYSEAT < tripleToken > ASTRONAUT was awarded WAS AWARDED < tripleToken > AIRPORT owner OWNER
+MANAGER club SPORTSTEAM < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+California fossil FOSSIL
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY demonym DEMONYM < tripleToken > COUNTRY ethnicGroup DEMONYM < tripleToken > FOOD country COUNTRY
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+UNIVERSITY birthPlace CITY < tripleToken > UNIVERSITY established ESTABLISHED
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+DEATHPLACE language LANGUAGE < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+AIRPORT manager MANAGER
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+Eastern Province , Sri Lanka birthPlace BIRTHPLACE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+New York City country COUNTRY
+FOOD dishVariation A . C . Cesena manager MANAGER < tripleToken > MANAGER placeOfBirth PLACEOFBIRTH < tripleToken > MANAGER club SPORTSTEAM
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > ASTRONAUT campus CAMPUS
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+SPORTSTEAM ground GROUND < tripleToken > CITY governmentType GOVERNMENTTYPE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT cityServed CITYSERVED
+LOCATION leaderTitle LEADERTITLE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+SPORTSTEAM ground GROUND < tripleToken > CITY nationality NATIONALITY < tripleToken > CITY leader LEADER
+COUNTRY currency CURRENCY < tripleToken > FOOD country COUNTRY
+California postalCode POSTALCODE
+Azerbaijan fossil FOSSIL
+SPORTSTEAM owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > BUILDING tenant TENANT < tripleToken > TENANT keyPerson KEYPERSON
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+Anaheim , CITYfornia populationTotal POPULATIONTOTAL
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT almaMater ALMAMATER < tripleToken > COUNTRY ethnicGroup ETHNICGROUP < tripleToken > AWARDS locationCity LOCATIONCITY < tripleToken > ASTRONAUT deathPlace DEATHPLACE
+Azerbaijan languages LANGUAGES
+SPORTSTEAM manager MANAGER
+SPORTSTEAM ground GROUND < tripleToken > FOOD dishVariation DISHVARIATION
+REGION leaderName LEADERNAME < tripleToken > BUILDING currentTenants CURRENTTENANTS < tripleToken > RELATED dishVariation DISHVARIATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > LOCATION leaderName LEADERNAME < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California capital CAPITAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER creator CREATOR
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+MONUMENT material MATERIAL
+Spain leaderName LEADERNAME
+AUTHOR birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+RELATED dishVariation DISHVARIATION
+Antioch , CITYfornia capital CAPITAL
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM Wien < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+California bird BIRD
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+Azerbaijan fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > VOICE division DIVISION < tripleToken > COMICSCHARACTER creator CREATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+United Kingdom demonym DEMONYM
+Ethiopia language LANGUAGE
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > DISHVARIATION ingredient INGREDIENT
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+AIRPORT location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+Azerbaijan fossil FOSSIL
+California fossil FOSSIL
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+COMICSCHARACTER voice VOICE
+SPORTSTEAM league LEAGUE < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > WRITTENWORK abbreviation ABBREVIATION
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Dublin leaderName LEADERNAME
+Spain largestCity LARGESTCITY
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE < tripleToken > Ernie Colón award AWARD < tripleToken > RELATED dishVariation DISHVARIATION
+BIRTHPLACE leaderName LEADERNAME < tripleToken > BIRTHPLACE partsType PARTSTYPE < tripleToken > BIRTHPLACE partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California birthPlace BIRTHPLACE
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY capital CAPITAL < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY anthem ANTHEM
+BUILDING completionDate COMPLETIONDATE < tripleToken > BUILDING height HEIGHT < tripleToken > BUILDING address ADDRESS < tripleToken > SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > VOICE isPartOf ISPARTOF
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > COUNTRY language LANGUAGE < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > LOCATION leaderName LEADERNAME
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT almaMater ALMAMATER
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region REGION
+Paris Cullins nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT awards AWARDS
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER location LOCATION < tripleToken > AUTHOR birthPlace BIRTHPLACE
+California nationality NATIONALITY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > VOICE birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+California fossil FOSSIL
+California fossil FOSSIL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT birthDate BIRTHDATE
+SPORTSTEAM league LEAGUE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+DEATHPLACE gemstone GEMSTONE < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE senators SENATORS
+Azerbaijan fossil FOSSIL
+California representative REPRESENTATIVE
+CITY populationDensity POPULATIONDENSITY
+Monocacy National Battlefield location LOCATION
+AIRPORT manager MANAGER
+California founder FOUNDER
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace STATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > UNIVERSITY campus CAMPUS < tripleToken > UNIVERSITY nationality NATIONALITY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+Dublin leaderName LEADERNAME
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace CITY < tripleToken > FOOD country COUNTRY < tripleToken > FOOD mainIngredients MAININGREDIENTS < tripleToken > FOOD ingredient INGREDIENT
+California fossil FOSSIL
+COMICSCHARACTER starring STARRING < tripleToken > STARRING birthPlace BIRTHPLACE
+California partsType PARTSTYPE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > AWARDS higher HIGHER
+United Kingdom leaderName LEADERNAME
+ASTRONAUT was given the ' Technical Campus ' status by WAS GIVEN THE 'TECHNICAL CAMPUS' STATUS BY < tripleToken > WAS A CREW MEMBER OF operator OPERATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE
+MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+California fossil FOSSIL
+Eastern Province , Sri Lanka governingBody GOVERNINGBODY
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT hometown HOMETOWN < tripleToken > HOMETOWN leaderName LEADERNAME
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COUNTRY leaderName LEADERNAME < tripleToken > LOCATION leaderTitle LEADERTITLE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD protein PROTEIN < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT served DEDICATEDTO
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+California fossil FOSSIL
+SPORTSTEAM ground GROUND
+COMICSCHARACTER voice VOICE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia countySeat COUNTYSEAT
+A . S . Livorno Calcio chairman CHAIRMAN < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > CREATOR award AWARD < tripleToken > COMICSCHARACTER fullName FULLNAME
+AIRPORT cityServed CITYSERVED < tripleToken > CITYSERVED isPartOf Paraná ( state ) < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+Sheldon Pugin birthPlace BIRTHPLACE
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club KV Mechelen < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY product HIGHER < tripleToken > BROADCASTEDBY product BROADCASTEDBY Radio
+ASTRONAUT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD creator CREATOR < tripleToken > COUNTRY leaderName LEADERNAME
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+United States largestCity LARGESTCITY
+ASTRONAUT was awarded WAS AWARDED < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+SPORTSTEAM league LEAGUE
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT awards AWARDS
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > BIRTHPLACE leaderName LEADERNAME
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+BUILDING location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan leaderTitle LEADERTITLE
+ASTRONAUT birthDate BIRTHDATE < tripleToken > SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup ETHNICGROUP
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+AUTHOR birthPlace BIRTHPLACE < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup ETHNICGROUP < tripleToken > COUNTRY leaderTitle President of the COUNTRY
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE < tripleToken > LEAGUE birthPlace BIRTHPLACE
+United States anthem ANTHEM
+SPORTSTEAM league LEAGUE
+Sri Lanka demonym DEMONYM
+BIRTHPLACE partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+SPORTSTEAM season SEASON < tripleToken > SPORTSTEAM league LEAGUE
+RELATED dishVariation DISHVARIATION
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+United Kingdom demonym DEMONYM
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER lastAired LASTAIRED
+COMICSCHARACTER voice VOICE
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > MONUMENT category CATEGORY
+BUILDING location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+United States House of Representatives battles BATTLES
+United States House of Representatives battles BATTLES
+Azerbaijan fossil FOSSIL
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT status STATUS < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+AUTHOR birthPlace BIRTHPLACE < tripleToken > AUTHOR birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ENAIRE locationCity LOCATIONCITY
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER voice VOICE
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT occupation OCCUPATION < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club KV Mechelen < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset POSTALCODE
+Azerbaijan fossil FOSSIL
+Alfred Giles ( architect ) placeOfDeath PLACEOFDEATH
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > MONUMENT material MATERIAL
+United States ethnicGroup ETHNICGROUP
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT campus DEATHDATE
+BUILDING height HEIGHT < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+Alfred Giles ( architect ) birthPlace BIRTHPLACE
+BUILDING location LOCATION < tripleToken > LOCATION currency CURRENCY < tripleToken > ASTRONAUT dedicatedTo as Chief of the Astronaut Office in SERVED AS CHIEF OF THE NATIONAL REGISTER OF HISTORIC PLACES < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+FOOD region REGION < tripleToken > REGION leaderName LEADERNAME
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > DISHVARIATION ingredient INGREDIENT
+Anaheim , CITYfornia areaTotal AREATOTAL
+COUNTRY leaderName LEADERNAME < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY language LANGUAGE
+BUILDING country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY capital CAPITAL < tripleToken > COUNTRY currency CURRENCY
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+California fossil FOSSIL
+California birthPlace BIRTHPLACE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT awards AWARDS
+SPORTSTEAM location LOCATION < tripleToken > SPORTSTEAM ground GROUND
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+Azerbaijan partsType PARTSTYPE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AUTHOR birthPlace BIRTHPLACE < tripleToken > REGION leaderName LEADERNAME < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region REGION
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION battles BATTLES < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > COUNTRY leaderTitle President of the COUNTRY
+ASTRONAUT status STATUS < tripleToken > OPERATINGORGANISATION deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION battles BATTLES
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY leaderTitle President of the COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > COUNTRY religion Church of COUNTRY
+Serie B champions CHAMPIONS
+AIRPORT runwayLength RUNWAYLENGTH < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+LOCATION leaderTitle LEADERTITLE < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+CITY isPartOf ISPARTOF < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > AIRPORT location LOCATION < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES) < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Azerbaijan languages LANGUAGES
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Azerbaijan fossil FOSSIL
+BUILDING currentTenants CURRENTTENANTS < tripleToken > CURRENTTENANTS country COUNTRY < tripleToken > BUILDING currentTenants CURRENTTENANTS
+California mayor MAYOR
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+ASTRONAUT was selected by NASA WAS SELECTED BY NASA < tripleToken > AWARDS higher HIGHER
+Adams County , Oregon countySeat CITY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT material MATERIAL
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > MONUMENT material MATERIAL < tripleToken > MONUMENT country COUNTRY
+COMICSCHARACTER voice VOICE < tripleToken > Ernie Colón award AWARD < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+FOOD protein PROTEIN < tripleToken > FOOD carbohydrate CARBOHYDRATE < tripleToken > FOOD carbohydrate CARBOHYDRATE
+BUILDING location LOCATION < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT significantBuilding SIGNIFICANTBUILDING
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia ethnicGroups ETHNICGROUPS
+ASTRONAUT nationality NATIONALITY < tripleToken > WRITTENWORK mediaType MEDIATYPE < tripleToken > WRITTENWORK birthPlace BIRTHPLACE
+California fossil FOSSIL
+California senators SENATORS
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Azerbaijan fossil FOSSIL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING buildingStartDate BUILDINGSTARTDATE < tripleToken > MONUMENT designer DESIGNER
+CITY populationDensity POPULATIONDENSITY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT awards AWARDS
+COMICSCHARACTER voice VOICE
+Azerbaijan partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY product BROADCASTEDBY Radio < tripleToken > BROADCASTEDBY foundedBy birthPlace BIRTHPLACE
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+MONUMENT material MATERIAL
+BIRTHPLACE bird BIRD < tripleToken > BUILDING currentTenants CURRENTTENANTS
+Roy Thomas award AWARD
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+California representative REPRESENTATIVE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+United States House of Representatives battles BATTLES
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+SPORTSTEAM ground GROUND < tripleToken > UNIVERSITY campus CAMPUS < tripleToken > SPORTSTEAM ground GROUND
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+California fossil FOSSIL
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+COMICSCHARACTER creator Ernie Colón < tripleToken > Ernie Colón nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+CITY leaderParty LEADERPARTY
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+COMICSCHARACTER voice VOICE
+SPORTSTEAM league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS
+Azerbaijan fossil FOSSIL
+SPORTSTEAM owner OWNER < tripleToken > SPORTSTEAM location LOCATION
+Celery genus GENUS
+California fossil FOSSIL
+California fossil FOSSIL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+FOOD mainIngredients MAININGREDIENTS
+Illinois language LANGUAGE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER < tripleToken > AIRPORT ICAO Location Identifier ICAO_LOCATION_IDENTIFIER
+COMICSCHARACTER voice VOICE < tripleToken > VOICE birthPlace BIRTHPLACE
+CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT almaMater ALMAMATER < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+RELATED dishVariation DISHVARIATION
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California senators SENATORS
+WRITTENWORK publisher PARENTCOMPANY Press < tripleToken > PARENTCOMPANY Press country COUNTRY < tripleToken > PARENTCOMPANY Press parentCompany PARENTCOMPANY < tripleToken > WRITTENWORK academicDiscipline ACADEMICDISCIPLINE
+FOOD country COUNTRY < tripleToken > FOOD mainIngredients MAININGREDIENTS
+California birthPlace BIRTHPLACE
+A . S . Livorno Calcio manager MANAGER < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+Massimo Drago club SPORTSTEAM
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM ground GROUND
+TENANT location LOCATION < tripleToken > LOCATION ethnicGroups ETHNICGROUPS
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+California fossil FOSSIL
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+California isPartOf ISPARTOF
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION battles Invasion of Grenada < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > OPERATINGORGANISATION battles BATTLES
+CITY areaTotal AREATOTAL < tripleToken > CITY neighboringMunicipality NEIGHBORINGMUNICIPALITY < tripleToken > SPORTSTEAM ground GROUND < tripleToken > GROUND part PART
+California fossil FOSSIL
+California fossil FOSSIL
+Azerbaijan fossil FOSSIL
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+COMICSCHARACTER voice VOICE < tripleToken > WRITTENWORK abbreviation ABBREVIATION
+ASTRONAUT birthPlace CITY < tripleToken > UNIVERSITY director DIRECTOR < tripleToken > UNIVERSITY sportsOffered SPORTSOFFERED < tripleToken > SPORTSOFFERED sportsGoverningBody SPORTSGOVERNINGBODY
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Chesterfield F . C . < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+COMICSCHARACTER country COUNTRY < tripleToken > WRITTENWORK publisher PUBLISHER
+SPORTSTEAM ground GROUND < tripleToken > GROUND location LOCATION
+ASTRONAUT occupation OCCUPATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER
+Azerbaijan fossil FOSSIL
+United States House of Representatives country COUNTRY
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT timeInSpace TIMEINSPACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Eastern Province , Sri Lanka language LANGUAGE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Celery genus GENUS
+California fossil FOSSIL
+Jack Kirby nationality NATIONALITY
+California birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+CITYfornia capital CAPITAL < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+BROADCASTEDBY keyPerson KEYPERSON < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY product LOCATIONCITY < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+California fossil FOSSIL
+California isPartOf ISPARTOF
+COMICSCHARACTER operatingOrganisation OPERATINGORGANISATION
+Paris Cullins birthPlace BIRTHPLACE
+CAPITAL capital CAPITAL < tripleToken > MONUMENT material MATERIAL < tripleToken > MONUMENT inaugurationDate INAUGURATIONDATE
+FOOD country COUNTRY < tripleToken > COUNTRY demonym DEMONYM < tripleToken > COUNTRY ethnicGroup DEMONYM people in COUNTRY < tripleToken > COUNTRY capital CAPITAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+COMICSCHARACTER creator Harry Sahle < tripleToken > Ernie Colón award AWARD < tripleToken > COMICSCHARACTER creator CREATOR
+California fossil FOSSIL
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+AIRPORT height HEIGHT
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > AWARDS higher HIGHER < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > FIRSTAPPEARANCEINFILM distributor DISTRIBUTOR
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT was selected by NASA WAS SELECTED BY NASA
+UNIVERSITY city CITY < tripleToken > UNIVERSITY director DIRECTOR < tripleToken > UNIVERSITY country COUNTRY < tripleToken > UNIVERSITY campus CAMPUS
+California fossil FOSSIL
+California fossil FOSSIL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Anaheim , CITYfornia populationTotal POPULATIONTOTAL
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT birthDate BIRTHDATE
+RELATED dishVariation DISHVARIATION
+COMICSCHARACTER voice VOICE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+LOCATION leaderParty LEADERPARTY < tripleToken > MONUMENT designer DESIGNER < tripleToken > LOCATION leaderName LEADERNAME
+COUNTRY leaderTitle President of the COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK country COUNTRY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+California fossil FOSSIL
+COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+CITYfornia fossil FOSSIL
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+SPORTSTEAM ground GROUND < tripleToken > GROUND part PART
+CITY populationDensity POPULATIONDENSITY
+WRITTENWORK abbreviation ABBREVIATION < tripleToken > COMICSCHARACTER broadcastedBy BROADCASTEDBY < tripleToken > STARRING birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+Azerbaijan anthem ANTHEM
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan fossil FOSSIL
+CITYfornia leaderParty LEADERPARTY
+California fossil FOSSIL
+California fossil FOSSIL
+CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region REGION
+Celery genus GENUS
+California representative REPRESENTATIVE < tripleToken > ASTRONAUT was awarded WAS AWARDED
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION battles Korean War < tripleToken > OPERATINGORGANISATION battles BATTLES
+FOOD country COUNTRY < tripleToken > FOOD ingredient INGREDIENT < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+CITY UTCOffset AREATOTAL
+AIRPORT location LOCATION < tripleToken > AIRPORT ground GROUND < tripleToken > AIRPORT cityServed CITYSERVED
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+Apollo 8 operator OPERATOR
+REGION language LANGUAGE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > ASTRONAUT almaMater ALMAMATER
+COMICSCHARACTER voice VOICE
+MANAGER club Empoli F . C . < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER creator Ernie Colón < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+COUNTRY capital CAPITAL < tripleToken > WRITTENWORK country COUNTRY < tripleToken > BUILDING location locationCity LOCATIONCITY < tripleToken > COUNTRY leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+RELATED dishVariation DISHVARIATION
+SPORTSTEAM league LEAGUE < tripleToken > COMICSCHARACTER creator CREATOR
+SPORTSTEAM ground GROUND < tripleToken > GROUND part PART
+AIRPORT location LOCATION < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > FOOD country COUNTRY
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+California language LANGUAGE
+AIRPORT locationIdentifier LOCATIONIDENTIFIER
+SPORTSTEAM ground GROUND
+Azerbaijan currency CURRENCY
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+SPORTSTEAM ground GROUND < tripleToken > GROUND leaderParty LEADERPARTY
+COUNTRY leaderName LEADERNAME < tripleToken > FOOD country COUNTRY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT location LOCATION < tripleToken > MONUMENT material MATERIAL
+BUILDING architecturalStyle ARCHITECTURALSTYLE < tripleToken > COUNTRY ethnicGroup ETHNICGROUP < tripleToken > CURRENTTENANTS country COUNTRY
+LOCATION leaderTitle LEADERTITLE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+FOOD related RELATED
+Dublin leaderName LEADERNAME
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+FOOD protein PROTEIN < tripleToken > FOOD mainIngredients MAININGREDIENTS
+COMICSCHARACTER mediaType VOICE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER
+ASTRONAUT occupation OCCUPATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+MANAGER club SK Vorwärts Steyr < tripleToken > UNIVERSITY city CITY < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+CITY isPartOf ISPARTOF
+AIRPORT owner OWNER < tripleToken > LOCATION ethnicGroups ETHNICGROUPS < tripleToken > MONUMENT designer DESIGNER < tripleToken > WRITTENWORK publisher PUBLISHER
+Antwerp founder FOUNDER < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+BUILDING completionDate COMPLETIONDATE < tripleToken > BUILDING location LOCATION < tripleToken > LOCATION isPartOf ISPARTOF
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER voice VOICE < tripleToken > Ernie Colón award AWARD
+United States House of HEADQUARTER Jersey headquarter HEADQUARTER
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+WRITTENWORK academicDiscipline ACADEMICDISCIPLINE
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER voice VOICE
+LANGUAGE spokenIn SPOKENIN < tripleToken > COUNTRY capital CAPITAL < tripleToken > COUNTRY language LANGUAGE < tripleToken > WRITTENWORK country COUNTRY
+Into Battle ( novel ) author AUTHOR
+California fossil FOSSIL
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT location LOCATION < tripleToken > LOCATION language LANGUAGE < tripleToken > LOCATION leaderName LEADERNAME < tripleToken > deathPlace A ethnicGroup < tripleToken > LOCATION ethnicGroup ETHNICGROUP
+COMICSCHARACTER voice VOICE
+California birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER creator CREATOR
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > Jan Duursema award AWARD
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+California fossil FOSSIL
+California birthPlace BIRTHPLACE
+Tennis sportsGoverningBody SPORTSGOVERNINGBODY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Ethiopia representative REPRESENTATIVE
+AUTHOR birthPlace BIRTHPLACE
+California fossil FOSSIL
+California mayor MAYOR
+California fossil FOSSIL
+California fossil FOSSIL
+SPORTSTEAM ground GROUND < tripleToken > GROUND state STATE < tripleToken > GROUND country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+FOOD dishVariation DISHVARIATION
+CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY religion Church of COUNTRY
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+RELATED dishVariation DISHVARIATION
+Ernie Colón award AWARD
+Tennis sportsGoverningBody SPORTSGOVERNINGBODY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COUNTRY ethnicGroup Zamboangans < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK language LANGUAGE < tripleToken > LANGUAGE spokenIn SPOKENIN < tripleToken > WRITTENWORK birthPlace BIRTHPLACE
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+BUILDING height HEIGHT < tripleToken > RELATED dishVariation DISHVARIATION
+AUTHOR birthPlace BIRTHPLACE < tripleToken > COUNTRY currency CURRENCY < tripleToken > ASTRONAUT was awarded WAS AWARDED < tripleToken > ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+MANAGER club SPORTSTEAM < tripleToken > UNIVERSITY city CITY < tripleToken > MANAGER club CLUB
+WRITTENWORK publisher PUBLISHER < tripleToken > HOMETOWN senators PLACEOFBIRTH < tripleToken > HOMETOWN leaderName LEADERNAME
+CITY areaOfLand AREAOFLAND
+Anaheim , Indiana UTCOffset UTCOFFSET
+FOOD country COUNTRY < tripleToken > COUNTRY ethnicGroup ETHNICGROUP
+Monocacy National Battlefield location LOCATION
+1 . FC Magdeburg manager MANAGER < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB < tripleToken > MANAGER leaderName LEADERNAME
+MONUMENT material MATERIAL
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION battles BATTLES
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT director DIRECTOR < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT status STATUS
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+BUILDING location LOCATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
+Azerbaijan fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club CLUB
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES
+ASTRONAUT almaMater ALMAMATER < tripleToken > BUILDING ReferenceNumber in the National Register of Historic Places REFERENCENUMBER IN THE 'TECHNICAL CAMPUS' STATUS BY < tripleToken > WAS A CREW MEMBER OF operator OPERATOR
+AIRPORT location LOCATION < tripleToken > LOCATION deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE
+Azerbaijan fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+FOOD country COUNTRY < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+California fossil FOSSIL
+SPORTSTEAM ground GROUND
+Antioch , CITYfornia UTCOffset UTCOFFSET
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > MONUMENT birthDate BIRTHDATE < tripleToken > MONUMENT country COUNTRY
+BIRTHPLACE postalCode POSTALCODE < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE
+COMICSCHARACTER locationIdentifier VOICE
+BUILDING country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > BUILDING location LOCATION < tripleToken > COUNTRY capital CAPITAL
+BIRTHPLACE leaderTitle LEADERTITLE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > NATIONALITY leaderName LEADERNAME
+AZ Alkmaar manager MANAGER < tripleToken > MANAGER club AFC Ajax < tripleToken > MANAGER club SPORTSTEAM
+HOMETOWN postalCode POSTALCODE < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT hometown HOMETOWN
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY
+AIRPORT runwayLength RUNWAYLENGTH
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Dublin isPartOf ISPARTOF
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER voice VOICE
+SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+SPORTSTEAM chairman CHAIRMAN
+REGION language LANGUAGE < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING tenant TENANT < tripleToken > TENANT birthPlace BIRTHPLACE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+California fossil FOSSIL
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY language LANGUAGE
+California fossil FOSSIL
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > OPERATINGORGANISATION battles BATTLES
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING location LOCATION < tripleToken > TENANT birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+California fossil FOSSIL
+Akron Summit Assault manager MANAGER < tripleToken > MANAGER placeOfBirth PLACEOFBIRTH < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+SPORTSTEAM manager MANAGER
+SPORTSTEAM owner OWNER < tripleToken > SPORTSTEAM location LOCATION
+California fossil FOSSIL
+LOCATION leaderParty LEADERPARTY < tripleToken > BUILDING location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > BUILDING architect ARCHITECT
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM league LEAGUE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > COUNTRY ethnicGroup Native Americans in COMPETE ) < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+REGION leaderName LEADERNAME < tripleToken > BUILDING currentTenants CURRENTTENANTS < tripleToken > RELATED dishVariation DISHVARIATION
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+Association for Computing Machinery headquarter HEADQUARTER
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION
+Apollo 8 commander COMMANDER
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY ethnicGroup Ilocano people < tripleToken > COUNTRY language LANGUAGE < tripleToken > CREATOR spokenIn SPOKENIN < tripleToken > COUNTRY capital CAPITAL < tripleToken > WRITTENWORK country COUNTRY
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency COUNTRYn rupiah
+Azerbaijan fossil FOSSIL
+BUILDING owner OWNER < tripleToken > OWNER chancellor CHANCELLOR
+CITYfornia demonym DEMONYM < tripleToken > BUILDING architect ARCHITECT
+MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+CITYfornia State POPULATIONTOTAL
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BROADCASTEDBY product BROADCASTEDBY Radio < tripleToken > BROADCASTEDBY foundedBy birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > COUNTRY language LANGUAGE < tripleToken > LANGUAGE spokenIn SPOKENIN < tripleToken > COUNTRY capital CAPITAL < tripleToken > WRITTENWORK country COUNTRY
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM season SEASON < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER locationIdentifier VOICE
+California fossil FOSSIL
+California fossil FOSSIL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+California birthPlace BIRTHPLACE
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+CITY areaOfLand AREAOFLAND
+AIRPORT locationIdentifier LOCATIONIDENTIFIER < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+BUILDING height HEIGHT < tripleToken > MONUMENT designer DESIGNER
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California founder FOUNDER
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > COUNTRY language LANGUAGE < tripleToken > FOOD country COUNTRY
+Azerbaijan partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency CURRENCY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS
+AUTHOR birthPlace BIRTHPLACE < tripleToken > REGION leaderName Jusuf Kalla < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+California fossil FOSSIL
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Chesterfield F . C . < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+MONUMENT foundingDate FOUNDINGDATE
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT doctoralAdvisor DOCTORALADVISOR < tripleToken > ASTRONAUT campus CAMPUS
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT awards AWARDS
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset AREATOTAL
+COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+FOOD protein PROTEIN < tripleToken > FOOD fat FAT < tripleToken > FOOD carbohydrate CARBOHYDRATE
+California fossil FOSSIL
+SPORTSTEAM ground GROUND < tripleToken > GROUND currency CURRENCY < tripleToken > GROUND currency CURRENCY
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER creator CREATOR
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > BUILDING location Colmore Row , BIRTHPLACE , England < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+FOOD protein PROTEIN < tripleToken > FOOD carbohydrate CARBOHYDRATE < tripleToken > UNIVERSITY country COUNTRY
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Celery genus GENUS
+FOOD dishVariation DISHVARIATION < tripleToken > FOOD protein PROTEIN < tripleToken > FOOD carbohydrate CARBOHYDRATE
+California fossil FOSSIL
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT placeOfDeath PLACEOFDEATH
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+A . C . Cesena league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+SPORTSTEAM manager MANAGER
+AIRPORT location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > LOCATION isPartOf ISPARTOF
+Illinois location LOCATION
+California fossil FOSSIL
+COUNTRY leaderName Charles Michel < tripleToken > MONUMENT country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+WAS A CREW MEMBER OF commander COMMANDER < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WAS A CREW MEMBER OF operator OPERATOR
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION birthPlace BIRTHPLACE < tripleToken > COUNTRY leaderName LEADERNAME
+Antioch , CITYfornia UTCOffset UTCOFFSET
+UNIVERSITY officialSchoolColour OFFICIALSCHOOLCOLOUR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Dublin isPartOf ISPARTOF
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BIRTHPLACE language LANGUAGE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+United States largestCity LARGESTCITY
+California birthPlace BIRTHPLACE
+Alfred Giles ( novel ) placeOfDeath PLACEOFDEATH
+AIRPORT location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > COUNTRY leaderName Gérard Tsipras < tripleToken > COUNTRY leaderName LEADERNAME
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT timeInSpace TIMEINSPACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+Azerbaijan fossil FOSSIL
+ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > AWARDS higher HIGHER < tripleToken > AIRPORT cityServed CITYSERVED
+Antioch , CITYfornia UTCOffset UTCOFFSET
+LEAGUE champions CHAMPIONS < tripleToken > UNIVERSITY was a crew member of WAS A CREW MEMBER OF < tripleToken > A . S . Roma league LEAGUE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT occupation OCCUPATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Spain currency CURRENCY
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+BUILDING location LOCATION < tripleToken > BUILDING owner OWNER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+COMICSCHARACTER creator Harry Sahle < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+Dublin leaderParty LEADERPARTY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT almaMater ALMAMATER < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+AUTHOR birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING currentTenants CURRENTTENANTS < tripleToken > RELATED nearestCity NEARESTCITY
+ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > AWARDS higher HIGHER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT awards AWARDS
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION
+Azerbaijan partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+AIRPORT location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY currency CURRENCY
+COMICSCHARACTER voice VOICE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+BIRTHPLACE representative REPRESENTATIVE < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+LEAGUE champions CHAMPIONS < tripleToken > MANAGER club Empoli F . C . < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+FOOD protein PROTEIN < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER
+MONUMENT category CATEGORY < tripleToken > MONUMENT material MATERIAL
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+California fossil FOSSIL
+MONUMENT dedicatedTo DEDICATEDTO < tripleToken > MONUMENT designer DESIGNER
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD country COUNTRY < tripleToken > COUNTRY currency COUNTRYn rupiah
+Ireland language LANGUAGE
+CITY areaOfLand AREAOFLAND
+COMICSCHARACTER voice VOICE
+FOOD dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > DISHVARIATION ingredient INGREDIENT
+Antioch , CITYfornia leaderName LEADERNAME
+RELATED dishVariation PARENTCOMPANY < tripleToken > PARENTCOMPANY Press parentCompany PARENTCOMPANY
+Azerbaijan partsType PARTSTYPE
+MANAGER club SK Vorwärts Steyr < tripleToken > MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club CLUB
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT director DIRECTOR < tripleToken > COMICSCHARACTER creator CREATOR
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE
+FOOD protein PROTEIN < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+FOOD protein PROTEIN < tripleToken > FOOD carbohydrate CARBOHYDRATE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+CITY areaOfLand AREAOFLAND
+COMICSCHARACTER voice VOICE
+A . C . Cesena league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+California fossil FOSSIL
+REGION language LANGUAGE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF < tripleToken > WRITTENWORK publisher PUBLISHER
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+AIRPORT runwayLength RUNWAYLENGTH < tripleToken > MONUMENT material MATERIAL
+MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD protein PROTEIN < tripleToken > MONUMENT officialSchoolColour OFFICIALSCHOOLCOLOUR
+England birthPlace BIRTHPLACE
+Serie B champions CHAMPIONS
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION transportAircraft TRANSPORTAIRCRAFT < tripleToken > OPERATINGORGANISATION battles BATTLES
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER starring STARRING < tripleToken > STARRING child CHILD < tripleToken > STARRING birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Eastern Province , Sri Lanka demonym DEMONYM < tripleToken > Eastern Province , Sri Lanka leaderName LEADERNAME
+Serie A champions SPORTSTEAM
+RELATED dishVariation DISHVARIATION
+BUILDING owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+CITYfornia leaderParty LEADERPARTY
+RELATED dishVariation DISHVARIATION
+California fossil FOSSIL
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT deathDate DEATHDATE
+LOCATION leaderParty LEADERPARTY
+BUILDING location LOCATION < tripleToken > BUILDING owner OWNER < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY anthem ANTHEM
+Dublin governmentType GOVERNMENTTYPE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+California fossil FOSSIL
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region Nationwide in COUNTRY , but more specific to Java
+California birthPlace BIRTHPLACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+BUILDING height HEIGHT < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+COMICSCHARACTER voice VOICE
+CITY has to its northeast HAS TO ITS NORTHEAST < tripleToken > BIRTHPLACE has to its northeast HAS TO ITS WEST < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+BUILDING completionDate COMPLETIONDATE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > COUNTRY leaderName LEADERNAME
+California fossil FOSSIL
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Azerbaijan leaderTitle LEADERTITLE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT director DIRECTOR < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+CITY populationDensity POPULATIONDENSITY < tripleToken > CITY areaOfWater AREAOFWATER < tripleToken > UNIVERSITY city CITY < tripleToken > UNIVERSITY latinName LATINNAME < tripleToken > UNIVERSITY affiliation AFFILIATION
+AIRPORT locationIdentifier LOCATIONIDENTIFIER
+COMICSCHARACTER voice VOICE
+AUTHOR birthPlace BIRTHPLACE
+Azerbaijan legislature LEGISLATURE
+COUNTRY leaderTitle President of the COUNTRY < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+California fossil FOSSIL
+AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES) < tripleToken > AIRPORT location LOCATION < tripleToken > LOCATION isPartOf ISPARTOF
+California fossil FOSSIL
+ASTRONAUT timeInSpace TIMEINSPACE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+California fossil FOSSIL
+CITYfornia leaderTitle LEADERTITLE
+SPORTSTEAM league LEAGUE
+California senators SENATORS
+MONUMENT category CATEGORY < tripleToken > MONUMENT location LOCATION
+California fossil FOSSIL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California birthPlace BIRTHPLACE
+California BIRTHDATE FOSSIL
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > OPERATINGORGANISATION attackAircraft ATTACKAIRCRAFT < tripleToken > OPERATINGORGANISATION aircraftFighter AIRCRAFTFIGHTER < tripleToken > OPERATINGORGANISATION battles BATTLES
+AIRPORT locationIdentifier LOCATIONIDENTIFIER < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+California birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE
+BUILDING location LOCATION
+BUILDING location LOCATION < tripleToken > AUTHOR mascot MASCOT < tripleToken > AUTHOR birthPlace BIRTHPLACE
+FOOD protein PROTEIN < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > FOOD carbohydrate CARBOHYDRATE
+AIRPORT runwayLength RUNWAYLENGTH < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+COUNTRY largestCity LARGESTCITY < tripleToken > FOOD region REGION < tripleToken > REGION leaderName LEADERNAME < tripleToken > REGION largestCity GOVERNINGBODY
+California fossil FOSSIL
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM league LEAGUE
+AIRPORT location LOCATION < tripleToken > LOCATION leaderParty LEADERPARTY < tripleToken > LOCATION languages LANGUAGES < tripleToken > LOCATION birthPlace BIRTHPLACE
+California fossil FOSSIL
+CAPITAL leaderTitle LEADERTITLE < tripleToken > COUNTRY leaderTitle President of the COUNTRY < tripleToken > WRITTENWORK country COUNTRY
+Dublin leaderParty LEADERPARTY
+CITY neighboringMunicipality AREAOFWATER
+COMICSCHARACTER voice VOICE
+Dublin leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE
+RELATED dishVariation DISHVARIATION
+Azerbaijan fossil FOSSIL
+New York City country COUNTRY < tripleToken > AIRPORT location LOCATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > LOCATION isPartOf ISPARTOF
+ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+California partsType PARTSTYPE
+BIRTHPLACE ethnicGroup ETHNICGROUP < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > MONUMENT location LOCATION
+California birthPlace BIRTHPLACE
+COMICSCHARACTER alternativeName ALTERNATIVENAME
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT significantBuilding Riverside Art Museum < tripleToken > ARCHITECT significantBuilding SIGNIFICANTBUILDING
+California fossil FOSSIL
+COMICSCHARACTER creator Ernie Colón < tripleToken > RELATED dishVariation DISHVARIATION
+United States House of Sciences headquarter HEADQUARTER
+ASTRONAUT birthPlace BIRTHPLACE
+California fossil FOSSIL
+California senators SENATORS
+California fossil FOSSIL
+A . C . Cesena league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+BUILDING architecturalStyle ARCHITECTURALSTYLE < tripleToken > BUILDING location Colmore Row , BIRTHPLACE , England < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+Azerbaijan fossil FOSSIL
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+California birthPlace BIRTHPLACE
+Apollo 12 operator OPERATOR
+BIRTHPLACE ethnicGroup ETHNICGROUP < tripleToken > BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME < tripleToken > BIRTHPLACE ethnicGroup ETHNICGROUP
+RELATED dishVariation DISHVARIATION
+Apollo 8 commander COMMANDER
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+SPORTSTEAM owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > SPORTSTEAM ground GROUND
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER voice VOICE < tripleToken > CHAIRMAN birthPlace BIRTHPLACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+DEATHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+California birthPlace BIRTHPLACE
+AIRPORT location LOCATION < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+RELATED dishVariation DISHVARIATION < tripleToken > MANAGER club SPORTSTEAM
+San Sebastián de Mary chancellor CHANCELLOR
+British Hong Kong representative REPRESENTATIVE
+AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER < tripleToken > AIRPORT runwayName RUNWAYNAME
+COMICSCHARACTER country COUNTRY < tripleToken > COUNTRY anthem ANTHEM
+AIRPORT locationIdentifier LOCATIONIDENTIFIER < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT was selected by NASA WAS SELECTED BY NASA < tripleToken > AIRPORT location LOCATION < tripleToken > AIRPORT runwayLength RUNWAYLENGTH
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+California fossil FOSSIL
+BUILDING height HEIGHT < tripleToken > STARRING mascot CHILD < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+RELATED dishVariation DISHVARIATION
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region Nationwide in COUNTRY and Indonesia < tripleToken > COUNTRY language LANGUAGE
+MONUMENT nativeName NATIVENAME < tripleToken > AIRPORT location LOCATION < tripleToken > AIRPORT IATA Location Identifier IATA_LOCATION_IDENTIFIER < tripleToken > MONUMENT designer DESIGNER
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+FOOD dishVariation DISHVARIATION < tripleToken > FOOD related RELATED
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace STATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY
+LOCATION leader LEADER < tripleToken > LOCATION currency CURRENCY < tripleToken > MONUMENT country COUNTRY
+A . C . Lumezzane league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > SPORTSTEAM ground GROUND
+AIRPORT manager MANAGER < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club Stockport County F . C . < tripleToken > MANAGER club CLUB
+California fossil FOSSIL
+FOOD dishVariation DISHVARIATION < tripleToken > FOOD protein PROTEIN < tripleToken > FOOD carbohydrate CARBOHYDRATE
+FOOD protein PROTEIN < tripleToken > SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+California fossil FOSSIL
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+RELATED dishVariation DISHVARIATION
+A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+Sheldon Moldoff award AWARD
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+California fossil FOSSIL
+California fossil FOSSIL
+ASTRONAUT birthDate BIRTHDATE < tripleToken > SPORTSTEAM ground GROUND < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT location LOCATION < tripleToken > DEATHPLACE country COUNTRY < tripleToken > COUNTRY language LANGUAGE
+Augustus Pugin birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+SPORTSTEAM season SEASON < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+California birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION
+A . C . Cesena league LEAGUE < tripleToken > LEAGUE champions CHAMPIONS < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+AUTHOR birthPlace BIRTHPLACE
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+SPORTSTEAM location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+BUILDING owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > MONUMENT location LOCATION
+RELATED dishVariation DISHVARIATION < tripleToken > RELATED dishVariation DISHVARIATION
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER creator CREATOR < tripleToken > CREATOR award AWARD
+RELATED dishVariation DISHVARIATION
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club A . S . Roma < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+MANAGER club SPORTSTEAM < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > MANAGER club CLUB
+California fossil FOSSIL
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > COUNTRY ethnicGroup Native Americans in the COUNTRY < tripleToken > COUNTRY leaderTitle President of the COUNTRY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+SPORTSTEAM owner OWNER
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+United States largestCity LARGESTCITY
+Anaheim , CITYfornia areaTotal AREATOTAL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT buildingStartDate BUILDINGSTARTDATE
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+BIRTHPLACE representative REPRESENTATIVE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > LOCATION part PART
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM owner OWNER < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+AIRPORT operatingOrganisation OPERATINGORGANISATION
+MONUMENT category CATEGORY < tripleToken > MONUMENT added DESIGNER < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > FOOD served SERVED
+COMICSCHARACTER voice VOICE
+Dublin leaderName LEADERNAME
+California fossil FOSSIL
+COMICSCHARACTER voice VOICE
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > ASTRONAUT deathDate CREATOR < tripleToken > ASTRONAUT birthDate BIRTHDATE
+FOOD protein PROTEIN < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT served DEDICATEDTO
+United States House of Representatives battles BATTLES
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+A . S . Livorno Calcio manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+Azerbaijan fossil FOSSIL
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+AIRPORT height HEIGHT
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+COMICSCHARACTER creator CREATOR
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT occupation OCCUPATION < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+Anaheim , CITYfornia ground GROUND
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COMICSCHARACTER voice VOICE
+BROADCASTEDBY locationCity LOCATIONCITY < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+FOOD related RELATED < tripleToken > FOOD country COUNTRY < tripleToken > ASTRONAUT birthDate BIRTHDATE
+COUNTRY leaderTitle President of the COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY anthem ANTHEM
+MONUMENT country COUNTRY < tripleToken > BUILDING location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+CITYfornia capital CAPITAL < tripleToken > MONUMENT material MATERIAL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > BIRTHPLACE leaderTitle LEADERTITLE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+BUILDING location LOCATION < tripleToken > LOCATION ethnicGroups ETHNICGROUPS < tripleToken > BUILDING architect ARCHITECT
+REGION leaderName LEADERNAME < tripleToken > FOOD dishVariation DISHVARIATION < tripleToken > DISHVARIATION ingredient INGREDIENT
+AIRPORT location LOCATION < tripleToken > OPERATINGORGANISATION locationCity LOCATIONCITY
+LOCATION leaderParty LEADERPARTY < tripleToken > REGION leaderName LEADERNAME < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY currency CURRENCY
+AUTHOR birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT nationality NATIONALITY < tripleToken > COMICSCHARACTER creator CREATOR
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club CLUB
+WRITTENWORK owner OWNER < tripleToken > EDITOR order ORDER
+Antioch , CITYfornia UTCOffset UTCOFFSET
+United States House of Sciences headquarter HEADQUARTER
+LOCATION isPartOf ISPARTOF < tripleToken > BUILDING location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+WRITTENWORK editor EDITOR < tripleToken > EDITOR almaMater ALMAMATER < tripleToken > AUTHOR birthPlace BIRTHPLACE < tripleToken > WRITTENWORK abbreviation ABBREVIATION
+California fossil FOSSIL
+California fossil FOSSIL
+MANAGER club Empoli F . C . < tripleToken > A . S . Roma manager MANAGER < tripleToken > MANAGER club SPORTSTEAM
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT director DIRECTOR < tripleToken > ASTRONAUT campus CAMPUS
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM league LEAGUE
+California birthPlace BIRTHPLACE
+California fossil FOSSIL
+COMICSCHARACTER elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES) < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > WRITTENWORK abbreviation ABBREVIATION
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > COUNTRY capital CAPITAL < tripleToken > LOCATION language LANGUAGE < tripleToken > FOOD country COUNTRY
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+UNIVERSITY owner OWNER < tripleToken > UNIVERSITY country COUNTRY < tripleToken > UNIVERSITY campus CAMPUS
+COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Illinois language LANGUAGE
+The California birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California birthPlace BIRTHPLACE
+BIRTHPLACE ethnicGroup ETHNICGROUP < tripleToken > BIRTHPLACE leaderName LEADERNAME < tripleToken > BIRTHPLACE partsType PARTSTYPE < tripleToken > BIRTHPLACE partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+AIRPORT location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+COMICSCHARACTER mediaType MEDIATYPE < tripleToken > COMICSCHARACTER author AUTHOR
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE country COUNTRY
+COUNTRY ethnicGroup ETHNICGROUP < tripleToken > FOOD course COURSE < tripleToken > COURSE dishVariation DISHVARIATION
+California fossil FOSSIL
+ASTRONAUT almaMater ALMAMATER < tripleToken > AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES) < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > FOOD country COUNTRY
+Azerbaijan fossil FOSSIL
+California fossil FOSSIL
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR
+Antioch , CITYfornia areaOfWater AREAOFWATER
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > AIRPORT runwayName RUNWAYNAME
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+Campeonato Brasileiro Série C champions SPORTSTEAM
+BIRTHPLACE ethnicGroup ETHNICGROUP < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate MEDIATYPE
+RELATED dishVariation DISHVARIATION
+MONUMENT buildingStartDate BUILDINGSTARTDATE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+RELATED dishVariation DISHVARIATION
+BUILDING owner OWNER < tripleToken > OWNER keyPerson KEYPERSON < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT country COUNTRY
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER voice VOICE
+FOOD country COUNTRY < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > FOOD region Nationwide in COUNTRY , but more specific to Java
+COMICSCHARACTER voice VOICE
+CITYfornia leaderTitle LEADERTITLE < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY ethnicGroup Ilocano people < tripleToken > COUNTRY capital CAPITAL < tripleToken > COUNTRY language LANGUAGE < tripleToken > FOOD country COUNTRY
+GROUND leader LEADER < tripleToken > ASTRONAUT birthPlace CITY < tripleToken > UNIVERSITY director DIRECTOR < tripleToken > UNIVERSITY country COUNTRY
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER creator CREATOR < tripleToken > CREATOR birthPlace BIRTHPLACE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT placeOfDeath PLACEOFDEATH
+Eastern Province , Sri Lanka leaderTitle LEADERTITLE
+COMICSCHARACTER creator CREATOR < tripleToken > CREATOR birthPlace BIRTHPLACE
+California fossil FOSSIL
+AIRPORT elevationAboveTheSeaLevel ( in metres ) ELEVATIONABOVETHESEALEVEL_(IN_METRES)
+California fossil FOSSIL
+COMICSCHARACTER creator CREATOR < tripleToken > CREATOR foundationPlace FOUNDATIONPLACE < tripleToken > MONUMENT material MATERIAL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Illinois currency CURRENCY
+MANAGER club SPORTSTEAM < tripleToken > A . C . Cesena manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER < tripleToken > MONUMENT material MATERIAL
+California fossil FOSSIL
+Azerbaijan fossil FOSSIL
+Antioch , CITYfornia UTCOffset UTCOFFSET
+California fossil FOSSIL
+SPORTSTEAM owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > MONUMENT inaugurationDate INAUGURATIONDATE < tripleToken > MONUMENT location LOCATION
+BUILDING location LOCATION < tripleToken > TENANT foundationPlace FOUNDATIONPLACE < tripleToken > BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+FOOD related RELATED < tripleToken > RELATED dishVariation DISHVARIATION
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE < tripleToken > LEAGUE birthPlace BIRTHPLACE
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club A . C . Chievo Verona < tripleToken > MANAGER club CLUB < tripleToken > MANAGER club CLUB
+BUILDING address ADDRESS < tripleToken > ASTRONAUT almaMater ALMAMATER < tripleToken > BUILDING location LOCATION
+Antioch , CITYfornia UTCOffset POSTALCODE
+ASTRONAUT almaMater ALMAMATER < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > DEATHPLACE senators SENATORS < tripleToken > DEATHPLACE senators SENATORS
+BUILDING owner OWNER < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME
+CITY neighboringMunicipality NEIGHBORINGMUNICIPALITY < tripleToken > ASTRONAUT birthPlace CITY < tripleToken > UNIVERSITY director DIRECTOR
+COUNTRY leaderName LEADERNAME < tripleToken > WRITTENWORK language LANGUAGE < tripleToken > LANGUAGE spokenIn SPOKENIN < tripleToken > BIRTHPLACE partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > BUILDING birthPlace BIRTHPLACE < tripleToken > BUILDING location Colmore Row , BIRTHPLACE , England < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+LOCATION leaderTitle LEADERTITLE < tripleToken > MONUMENT designer DESIGNER < tripleToken > SPORTSTEAM ground GROUND < tripleToken > GROUND part PART
+ASTRONAUT status STATUS < tripleToken > OPERATINGORGANISATION deathPlace DEATHPLACE < tripleToken > ARCHITECT birthPlace BIRTHPLACE < tripleToken > BIRTHPLACE leaderName LEADERNAME
+Antioch , CITYfornia dishVariation DISHVARIATION
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > OPERATINGORGANISATION battles Invasion of Grenada < tripleToken > DEATHPLACE leaderName LEADERNAME
+COMICSCHARACTER voice VOICE
+FOOD protein PROTEIN < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+SPORTSTEAM numberOfMembers NUMBEROFMEMBERS < tripleToken > SPORTSTEAM season SEASON
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY language LANGUAGE < tripleToken > BUILDING architect ARCHITECT
+FOOD related RELATED
+BUILDING currentTenants CURRENTTENANTS < tripleToken > MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT designer DESIGNER
+COMICSCHARACTER voice VOICE < tripleToken > VOICE birthPlace BIRTHPLACE
+Apollo 12 commander COMMANDER
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT material MATERIAL
+COUNTRY demonym DEMONYM < tripleToken > COUNTRY capital CAPITAL < tripleToken > COUNTRY demonym DEMONYM < tripleToken > COUNTRY demonym DEMONYM < tripleToken > WRITTENWORK country COUNTRY
+BUILDING completionDate COMPLETIONDATE < tripleToken > CURRENTTENANTS country COUNTRY < tripleToken > BUILDING currentTenants CURRENTTENANTS
+Dublin fossil AREAOFWATER
+COUNTRY leaderName LEADERNAME < tripleToken > FOOD country COUNTRY
+COMICSCHARACTER voice VOICE
+COMICSCHARACTER alternativeName ALTERNATIVENAME < tripleToken > COMICSCHARACTER creator CREATOR
+California fossil FOSSIL
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER voice VOICE
+California senators SENATORS
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+COMICSCHARACTER voice VOICE
+California fossil FOSSIL
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+BUILDING architect ARCHITECT < tripleToken > ARCHITECT birthPlace BIRTHPLACE
+BUILDING floorArea FLOORAREA < tripleToken > BUILDING floorCount FLOORCOUNT
+UNIVERSITY country COUNTRY
+FOOD related RELATED < tripleToken > FOOD mainIngredients MAININGREDIENTS
+FOOD country COUNTRY < tripleToken > COUNTRY leaderName Joko Widodo < tripleToken > COUNTRY leaderName LEADERNAME
+BUILDING location LOCATION < tripleToken > TENANT birthPlace BIRTHPLACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+SPORTSTEAM league LEAGUE
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE
+BUILDING location LOCATION < tripleToken > BUILDING architect ARCHITECT
+AIRPORT operatingOrganisation OPERATINGORGANISATION < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+FOOD year YEAR
+CREATOR birthPlace BIRTHPLACE < tripleToken > CREATOR nationality NATIONALITY < tripleToken > ASTRONAUT almaMater ALMAMATER < tripleToken > WRITTENWORK abbreviation ABBREVIATION
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+Anaheim , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE
+Azerbaijan fossil FOSSIL
+RELATED dishVariation DISHVARIATION
+SPORTSTEAM owner OWNER < tripleToken > MONUMENT inaugurationDate INAUGURATIONDATE < tripleToken > MONUMENT location LOCATION
+California fossil FOSSIL
+California fossil FOSSIL
+MONUMENT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+SPORTSTEAM manager MANAGER < tripleToken > MANAGER club Irlam Town F . C . < tripleToken > MANAGER club CLUB
+COMICSCHARACTER voice VOICE < tripleToken > Ernie Colón award AWARD < tripleToken > RELATED dishVariation DISHVARIATION
+FOOD country COUNTRY < tripleToken > FOOD dishVariation DISHVARIATION < tripleToken > FOOD ingredient INGREDIENT
+SPORTSTEAM ground GROUND < tripleToken > SPORTSTEAM league LEAGUE
+SPORTSTEAM manager MANAGER
+MANAGER club SPORTSTEAM < tripleToken > 1 . FC Köln manager MANAGER < tripleToken > MANAGER club CLUB < tripleToken > SPORTSTEAM ground GROUND
+Azerbaijan partsType PARTSTYPE
+COMICSCHARACTER voice VOICE
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT timeInSpace TIMEINSPACE
+Antioch , CITYfornia UTCOffset UTCOFFSET
+Azerbaijan fossil FOSSIL
+Antioch , CITYfornia areaOfWater AREAOFWATER
+ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE
+Antioch , CITYfornia populationTotal POPULATIONTOTAL
+COMICSCHARACTER voice VOICE
+AUTHOR birthPlace BIRTHPLACE < tripleToken > WRITTENWORK country COUNTRY < tripleToken > COUNTRY anthem ANTHEM < tripleToken > COUNTRY religion Church of BIRTHPLACE
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+Celery genus GENUS
+AUTHOR birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+BUILDING height HEIGHT < tripleToken > BUILDING architect ARCHITECT
+Antioch , CITYfornia UTCOffset UTCOFFSET
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > MONUMENT served DEDICATEDTO < tripleToken > MONUMENT officialSchoolColour OFFICIALSCHOOLCOLOUR
+BIRTHPLACE bird BIRD < tripleToken > BIRTHPLACE representative REPRESENTATIVE < tripleToken > BIRTHPLACE partsType PARTSTYPE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > LOCATION part PART
+A . S . Livorno Calcio manager MANAGER < tripleToken > MANAGER club Alianza F . C . < tripleToken > MANAGER club SPORTSTEAM < tripleToken > MANAGER club CLUB
+FOOD servingTemperature SERVINGTEMPERATURE < tripleToken > FOOD mainIngredients MAININGREDIENTS
+COMICSCHARACTER voice VOICE
+Azerbaijan languages LANGUAGES
+California demonym DEMONYM
+California birthPlace BIRTHPLACE
+ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > COMICSCHARACTER creator CREATOR < tripleToken > COMICSCHARACTER alternativeName ALTERNATIVENAME
+Azerbaijan fossil FOSSIL
+FOOD ingredient INGREDIENT < tripleToken > FOOD country COUNTRY
+MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+COMICSCHARACTER location LOCATION < tripleToken > BROADCASTEDBY locationCity LOCATIONCITY
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+CITYfornia languages LANGUAGES
+FOOD dishVariation DISHVARIATION < tripleToken > ASTRONAUT was a crew member of WAS A CREW MEMBER OF
+COMICSCHARACTER voice VOICE < tripleToken > RELATED dishVariation DISHVARIATION
+BUILDING floorCount FLOORCOUNT
+Antioch , CITYfornia UTCOffset UTCOFFSET
+COUNTRY currency CURRENCY < tripleToken > MONUMENT country COUNTRY < tripleToken > BUILDING location Colmore Row , BIRTHPLACE , England < tripleToken > COUNTRY leaderName LEADERNAME
+DEATHPLACE leaderName LEADERNAME < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+ASTRONAUT was awarded WAS AWARDED < tripleToken > AIRPORT owner OWNER < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+ASTRONAUT status STATUS < tripleToken > ASTRONAUT deathPlace DEATHPLACE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > COUNTRY leaderName LEADERNAME
+AIRPORT owner OWNER < tripleToken > AIRPORT operatingOrganisation OPERATINGORGANISATION
+CITYfornia leaderTitle LEADERTITLE
+BUILDING owner OWNER < tripleToken > OWNER chancellor CHANCELLOR < tripleToken > SPORTSTEAM ground GROUND
+Azerbaijan fossil FOSSIL
+AIRPORT location LOCATION < tripleToken > LOCATION country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME < tripleToken > LOCATION isPartOf Central COUNTRY Region
+Lee County , Oregon countySeat CITY
+California birthPlace BIRTHPLACE
+RELATED dishVariation DISHVARIATION < tripleToken > COMICSCHARACTER voice VOICE < tripleToken > COMICSCHARACTER voice VOICE
+SPORTSTEAM season SEASON < tripleToken > SPORTSTEAM league LEAGUE < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE
+DISTRICT location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > LOCATION leaderName LEADERNAME < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY currency CURRENCY
+Apollo 12 operator OPERATOR
+CITYfornia LEADERNAME
+AUTHOR birthPlace BIRTHPLACE < tripleToken > ASTRONAUT birthDate BIRTHDATE
+CAPITAL leaderTitle LEADERTITLE < tripleToken > FOOD country COUNTRY < tripleToken > COUNTRY leaderName LEADERNAME
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT awards AWARDS
+California fossil FOSSIL
+California fossil FOSSIL
+BUILDING location LOCATION < tripleToken > MONUMENT nativeName NATIVENAME < tripleToken > MONUMENT material MATERIAL
+AUTHOR birthPlace BIRTHPLACE < tripleToken > REGION ethnicGroup ETHNICGROUP < tripleToken > REGION leaderName LEADERNAME < tripleToken > FOOD region REGION
+Eastern Province , Sri Lanka demonym DEMONYM < tripleToken > Eastern Province , Sri Lanka demonym DEMONYM
+MONUMENT foundingDate FOUNDINGDATE
+ASTRONAUT dateOfRetirement DATEOFRETIREMENT < tripleToken > ASTRONAUT birthDate BIRTHDATE < tripleToken > ASTRONAUT birthPlace BIRTHPLACE < tripleToken > ASTRONAUT dateOfRetirement DATEOFRETIREMENT
